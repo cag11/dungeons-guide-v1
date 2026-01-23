@@ -2,8 +2,8 @@ site_name: Minecraft Dungeons Guides
 site_url: https://dungeonss.vercel.app
 theme:
   name: material
-  logo: images/logo.webp
-  favicon: images/logo.webp
+  logo: images/icon.webp
+  favicon: images/icon.webp
   palette:
     primary: deep purple
     accent: amber
