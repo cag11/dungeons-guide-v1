@@ -1,0 +1,66 @@
+# 🛡️ Agenciak's Guides
+
+<div class="hero-section" style="margin: 0 0 30px 0; padding: 40px 20px;">
+  <p style="font-size: 1.4em; color: #c9a7ff; margin: 0;">Welcome to beginner-friendly guides! Perfect for players starting their journey through Minecraft Dungeons.</p>
+</div>
+
+---
+
+## 📚 Available Guides
+
+<div class="guide-cards" style="grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));">
+
+<div class="guide-card">
+  <a href="melee-guide/">
+    <div class="guide-card-icon">⚔️</div>
+    <h3 class="guide-card-title">Melee Combat Guide</h3>
+    <p class="guide-card-desc">Learn the fundamentals of melee combat, weapon types, and basic strategies for beginners.</p>
+  </a>
+</div>
+
+<div class="guide-card">
+  <a href="rolling-guide/">
+    <div class="guide-card-icon">💨</div>
+    <h3 class="guide-card-title">Rolling Mechanics Guide</h3>
+    <p class="guide-card-desc">Master the art of rolling and dodging to survive the toughest battles with i-frames!</p>
+  </a>
+</div>
+
+</div>
+
+---
+
+## 💡 What You'll Learn
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 24px; margin: 40px 0;">
+
+<div class="build-section" style="text-align: center;">
+  <h3>⚔️ Combat Basics</h3>
+  <p>Understanding weapon mechanics, attack patterns, and damage optimization</p>
+</div>
+
+<div class="build-section" style="text-align: center;">
+  <h3>🛡️ Defense Tactics</h3>
+  <p>When to block, dodge, or run. Master defensive mechanics to survive</p>
+</div>
+
+<div class="build-section" style="text-align: center;">
+  <h3>💪 Power Progression</h3>
+  <p>Building your character effectively from start to endgame</p>
+</div>
+
+<div class="build-section" style="text-align: center;">
+  <h3>🎯 Enemy Patterns</h3>
+  <p>Recognizing and countering threats before they overwhelm you</p>
+</div>
+
+</div>
+
+---
+
+!!! tip "About These Guides"
+    All guides are written with beginners in mind. Take your time, practice the techniques, and soon you'll be ready for higher difficulties! 🎮✨
+
+<div style="text-align: center; margin-top: 40px;">
+  <p style="font-size: 1.2em; color: #b794f6;">Choose a guide above to begin your journey!</p>
+</div>

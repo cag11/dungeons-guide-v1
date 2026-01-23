@@ -1,0 +1,57 @@
+site_name: Minecraft Dungeons Guides
+site_url: https://mydomain.org/mysite
+theme:
+  name: material
+  logo: images/logo.webp
+  favicon: images/logo.webp
+  palette:
+    primary: deep purple
+    accent: amber
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - toc.integrate
+    - content.code.copy
+  font:
+    text: Roboto
+    code: Roboto Mono
+
+extra_css:
+  - stylesheets/extra.css
+
+copyright: "Made with ❤️ by the Arno"
+
+extra:
+  generator: true
+
+nav:
+  - Home: index.md
+  - Agenciak's Guides:
+    - agenciak/index.md
+    - Melee Guide: agenciak/melee-guide.md
+    - Rolling Guide: agenciak/rolling-guide.md
+  - BusterCat's Guides:
+    - bustercat/index.md
+  - GrimReaper's Guides:
+    - grimreaper/index.md
+  - Pancake's Guides:
+    - pancake/index.md
+  - Shin's Guides:
+    - shins/index.md
+  - Reddit Guides:
+    - reddit/index.md
+  - Other Sources:
+    - other/index.md
+
+markdown_extensions:
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
