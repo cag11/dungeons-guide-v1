@@ -26,6 +26,14 @@
   </div>
 </a>
 
+<a href="agenciak-enhancements/" class="guide-card-link">
+  <div class="guide-card">
+    <div class="guide-card-icon">✨</div>
+    <h3 class="guide-card-title">Enchantments Compendium</h3>
+    <p class="guide-card-desc">Everything about enchantments in Minecraft Dungeons. Detailed breakdown of melee, armor, and ranged enchantments.</p>
+  </div>
+</a>
+
 <a href="agenciak-glossary/" class="guide-card-link">
   <div class="guide-card">
     <div class="guide-card-icon">📖</div>
