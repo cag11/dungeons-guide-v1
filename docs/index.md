@@ -144,9 +144,3 @@ Understanding i-frames, defensive tactics, and advanced rolling techniques.
   <p style="font-size: 1.3em; color: #c9a7ff; margin-top: 20px;">Choose a guide section above and start your journey to becoming a Dungeons master! 🎮✨</p>
 </div>
 
----
-
-<div style="text-align: center; margin: 40px 0 20px 0;">
-  <p style="font-size: 1.2em; color: #c9a7ff;">Made by Arno with <span style="color: #ff0000;">❤️</span></p>
-</div>
-

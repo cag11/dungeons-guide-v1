@@ -28,9 +28,9 @@
 ### <img src="../assets/melee/Master's_Katana_(MCD).webp" width="24" alt="Master's Katana" style="vertical-align: middle;"> Master's Katana
 *6th highest DPS in the game, solid attack area, can run* ![Pain Cycle](../assets/enhancements/Pain_Cycle_(MCD_Enchantment).webp){ width="24" } *Pain cycle really well because of it's combo lenght*
 
-![Voidstrike](../assets/enhancements/Void_Strike.webp){ width="24" } + ![Unchanting](../assets/enhancements/Unchanting.webp){ width="24" } + ![Guarding Strike](../assets/enhancements/Guarding_Strike_(MCD_Enchantment).webp){ width="24" } + ![Pain Cycle](../assets/enhancements/Pain_Cycle_(MCD_Enchantment).webp){ width="24" } (Only with lifesteal)
+![Voidstrike](../assets/enhancements/Void_Strike.webp){ width="24" } + ![Unchanting](../assets/enhancements/Unchanting.webp){ width="24" } / ![Pain Cycle](../assets/enhancements/Pain_Cycle_(MCD_Enchantment).webp){ width="24" } + ![Guarding Strike](../assets/enhancements/Guarding_Strike_(MCD_Enchantment).webp){ width="24" } + ![Weakening](../assets/enhancements/Weakening.webp){ width="24" } (Only with lifesteal)
 
-![Voidstrike](../assets/enhancements/Void_Strike.webp){ width="24" } + ![Unchanting](../assets/enhancements/Unchanting.webp){ width="24" } + ![Guarding Strike](../assets/enhancements/Guarding_Strike_(MCD_Enchantment).webp){ width="24" } + ![Leeching](../assets/enhancements/Leeching.webp){ width="24" }
+![Voidstrike](../assets/enhancements/Void_Strike.webp){ width="24" } + ![Unchanting](../assets/enhancements/Unchanting.webp){ width="24" } / ![Pain Cycle](../assets/enhancements/Pain_Cycle_(MCD_Enchantment).webp){ width="24" } + ![Guarding Strike](../assets/enhancements/Guarding_Strike_(MCD_Enchantment).webp){ width="24" } + ![Leeching](../assets/enhancements/Leeching.webp){ width="24" }
 
 ### ![Bone Cudgel](../assets/melee/Bone_Cudgel_(MCD).webp){ width="24" } Bone Cudgel, ![Boneclub](../assets/melee/Boneclub_(MCD).webp){ width="24" } Boneclub
 *7th highest DPS, big attack area*
@@ -42,36 +42,42 @@
 ### ![Nameless Blade](../assets/melee/Nameless_Blade_(MCD).webp){ width="24" } Nameless Blade
 *10th highest DPS, built in* ![Chains](../assets/enhancements/Chains.webp){ width="24" } *helps this weapon a lot*
 
-![Voidstrike](../assets/enhancements/Void_Strike.webp){ width="24" } + ![Unchanting](../assets/enhancements/Unchanting.webp){ width="24" } + ![Guarding Strike](../assets/enhancements/Guarding_Strike_(MCD_Enchantment).webp){ width="24" } + ![Weakening](../assets/enhancements/Weakening.webp){ width="24" } (Only with lifesteal)
+![Voidstrike](../assets/enhancements/Void_Strike.webp){ width="24" } + ![Unchanting](../assets/enhancements/Unchanting.webp){ width="24" } + ![Guarding Strike](../assets/enhancements/Guarding_Strike_(MCD_Enchantment).webp){ width="24" } + ![Critical Hit](../assets/enhancements/Critical_Hit.webp){ width="24" } (Only with lifesteal)
 
 ![Voidstrike](../assets/enhancements/Void_Strike.webp){ width="24" } + ![Unchanting](../assets/enhancements/Unchanting.webp){ width="24" } + ![Guarding Strike](../assets/enhancements/Guarding_Strike_(MCD_Enchantment).webp){ width="24" } + ![Leeching](../assets/enhancements/Leeching.webp){ width="24" }
+
+![Voidstrike](../assets/enhancements/Void_Strike.webp){ width="24" } + ![Ambush](../assets/enhancements/Ambush.webp){ width="24" } + ![Guarding Strike](../assets/enhancements/Guarding_Strike_(MCD_Enchantment).webp){ width="24" } + ![Stunning](../assets/enhancements/Stunning.webp){ width="24" } (Only with lifesteal)
 
 ### ![Growing Staff](../assets/melee/Growing_Staff_(MCD).webp){ width="24" } Growing Staff
 *11th highest DPS,* ![Committed](../assets/enhancements/Committed.webp){ width="24" } *Committed is built in, can use* ![Gravity](../assets/enhancements/Gravity.webp){ width="24" } *Gravity (it's attack area isn't that big, so it requires something to boost it), but also works without it*
 
-![Voidstrike](../assets/enhancements/Void_Strike.webp){ width="24" } + ![Unchanting](../assets/enhancements/Unchanting.webp){ width="24" } + ![Guarding Strike](../assets/enhancements/Guarding_Strike_(MCD_Enchantment).webp){ width="24" } + ![Weakening](../assets/enhancements/Weakening.webp){ width="24" } (Only with lifesteal)
+![Voidstrike](../assets/enhancements/Void_Strike.webp){ width="24" } + ![Gravity](../assets/enhancements/Gravity.webp){ width="24" } + ![Guarding Strike](../assets/enhancements/Guarding_Strike_(MCD_Enchantment).webp){ width="24" } + ![Unchanting](../assets/enhancements/Unchanting.webp){ width="24" } (Only with lifesteal)
 
-![Sharpness](../assets/enhancements/Sharpness.webp){ width="24" } + ![Voidstrike](../assets/enhancements/Void_Strike.webp){ width="24" } + ![Critical Hit](../assets/enhancements/Critical_Hit.webp){ width="24" } + ![Gravity](../assets/enhancements/Gravity.webp){ width="24" }
+![Voidstrike](../assets/enhancements/Void_Strike.webp){ width="24" } + ![Gravity](../assets/enhancements/Gravity.webp){ width="24" } + ![Guarding Strike](../assets/enhancements/Guarding_Strike_(MCD_Enchantment).webp){ width="24" } + ![Leeching](../assets/enhancements/Leeching.webp){ width="24" } 
 
 ![Voidstrike](../assets/enhancements/Void_Strike.webp){ width="24" } + ![Unchanting](../assets/enhancements/Unchanting.webp){ width="24" } + ![Guarding Strike](../assets/enhancements/Guarding_Strike_(MCD_Enchantment).webp){ width="24" } + ![Leeching](../assets/enhancements/Leeching.webp){ width="24" }
+
+![Voidstrike](../assets/enhancements/Void_Strike.webp){ width="24" } + ![Unchanting](../assets/enhancements/Unchanting.webp){ width="24" } + ![Guarding Strike](../assets/enhancements/Guarding_Strike_(MCD_Enchantment).webp){ width="24" } + ![Critical Hit](../assets/enhancements/Critical_Hit.webp){ width="24" } (Only with lifesteal)
 
 ### ![Bee Stinger](../assets/melee/Bee_Stinger_(MCD).webp){ width="24" } Bee Stinger, ![Rapier](../assets/melee/Rapier_(MCD).webp){ width="24" } Rapier, ![Freezing Foil](../assets/melee/Freezing_Foil_(MCD).webp){ width="24" } Freezing Foil
 *Very fast hits, long reach, small area (requires* ![Gravity](../assets/enhancements/Gravity.webp){ width="24" } *Gravity), because of common* ![Thundering](../assets/enhancements/Thundering.webp){ width="24" } *Thundering use it gets buffed by* ![Lightning Focus](../assets/enhancements/LightningFocus_(MCD_Enchantment).webp){ width="24" } *Lightning focus a lot*
 
-![Sharpness](../assets/enhancements/Sharpness.webp){ width="24" } + ![Voidstrike](../assets/enhancements/Void_Strike.webp){ width="24" } + ![Critical Hit](../assets/enhancements/Critical_Hit.webp){ width="24" } + ![Gravity](../assets/enhancements/Gravity.webp){ width="24" }
+![Gravity](../assets/enhancements/Gravity.webp){ width="24" } + ![Radiance](../assets/enhancements/Radiance.webp){ width="24" } + ![Stunning](../assets/enhancements/Stunning.webp){ width="24" } + ![Thundering](../assets/enhancements/Thundering.webp){ width="24" }
 
-![Sharpness](../assets/enhancements/Sharpness.webp){ width="24" } + ![Voidstrike](../assets/enhancements/Void_Strike.webp){ width="24" } + ![Critical Hit](../assets/enhancements/Critical_Hit.webp){ width="24" } + ![Thundering](../assets/enhancements/Thundering.webp){ width="24" } (Only with lifesteal)
+![Gravity](../assets/enhancements/Gravity.webp){ width="24" } + ![Radiance](../assets/enhancements/Radiance.webp){ width="24" } + ![Guarding Strike](../assets/enhancements/Guarding_Strike_(MCD_Enchantment).webp){ width="24" } + ![Thundering](../assets/enhancements/Thundering.webp){ width="24" }
 
-![Sharpness](../assets/enhancements/Sharpness.webp){ width="24" } + ![Voidstrike](../assets/enhancements/Void_Strike.webp){ width="24" } + ![Critical Hit](../assets/enhancements/Critical_Hit.webp){ width="24" } + ![Thundering](../assets/enhancements/Thundering.webp){ width="24" } *(added)*
+![Gravity](../assets/enhancements/Gravity.webp){ width="24" } + ![Guarding Strike](../assets/enhancements/Guarding_Strike_(MCD_Enchantment).webp){ width="24" } + ![Unchanting](../assets/enhancements/Unchanting.webp){ width="24" } + ![Thundering](../assets/enhancements/Thundering.webp){ width="24" } (Only with lifesteal)
 
 ### <img src="../assets/melee/Fighter's_Bindings_(MCD).webp" width="24" alt="Fighter's Bindings" style="vertical-align: middle;"> Fighter's Bindings
 *Very fast with a short combo and small area, because of common* ![Thundering](../assets/enhancements/Thundering.webp){ width="24" } *Thundering use it gets buffed by* ![Lightning Focus](../assets/enhancements/LightningFocus_(MCD_Enchantment).webp){ width="24" } *Lightning focus a lot (This weapon has over 20 "good!!!" combinations, i'm not gonna list them all, the subjectively best ones are the following)*
 
-![Sharpness](../assets/enhancements/Sharpness.webp){ width="24" } + ![Voidstrike](../assets/enhancements/Void_Strike.webp){ width="24" } + ![Critical Hit](../assets/enhancements/Critical_Hit.webp){ width="24" } + ![Gravity](../assets/enhancements/Gravity.webp){ width="24" } (![Ambush](../assets/enhancements/Ambush.webp){ width="24" } Ambush gives you a +60% DPS buff to enemies stunned by ![Stunning](../assets/enhancements/Stunning.webp){ width="24" } Stunning, making them a very effective combo for fast weapons)
+![Shockwave](../assets/enhancements/Shockwave.webp){ width="24" } + ![Swirling](../assets/enhancements/T_Swirling_Icon.webp){ width="24" } + ![Thundering](../assets/enhancements/Thundering.webp){ width="24" } + ![Radiance](../assets/enhancements/Radiance.webp){ width="24" } 
 
-![Sharpness](../assets/enhancements/Sharpness.webp){ width="24" } + ![Voidstrike](../assets/enhancements/Void_Strike.webp){ width="24" } + ![Critical Hit](../assets/enhancements/Critical_Hit.webp){ width="24" } + ![Thundering](../assets/enhancements/Thundering.webp){ width="24" } (Only with lifesteal)
+![Stunning](../assets/enhancements/Stunning.webp){ width="24" } + ![Ambush](../assets/enhancements/Ambush.webp){ width="24" } + ![Thundering](../assets/enhancements/Thundering.webp){ width="24" } + ![Radiance](../assets/enhancements/Radiance.webp){ width="24" } (![Ambush](../assets/enhancements/Ambush.webp){ width="24" } Ambush gives you a +60% DPS buff to enemies stunned by ![Stunning](../assets/enhancements/Stunning.webp){ width="24" } Stunning, making them a very effective combo for fast weapons)
 
-![Sharpness](../assets/enhancements/Sharpness.webp){ width="24" } + ![Voidstrike](../assets/enhancements/Void_Strike.webp){ width="24" } + ![Critical Hit](../assets/enhancements/Critical_Hit.webp){ width="24" } + ![Thundering](../assets/enhancements/Thundering.webp){ width="24" } *(added)*
+![Gravity](../assets/enhancements/Gravity.webp){ width="24" } + ![Critical Hit](../assets/enhancements/Critical_Hit.webp){ width="24" } + ![Unchanting](../assets/enhancements/Unchanting.webp){ width="24" } + ![Guarding String](../assets/enhancements/Guarding_Strike_(MCD_Enchantment).webp){ width="24" } (Only with lifesteal)
+
+![Gravity](../assets/enhancements/Gravity.webp){ width="24" } + ![Exploding](../assets/enhancements/Exploding.webp){ width="24" } + ![Stunning](../assets/enhancements/Stunning.webp){ width="24" } + ![Radiance](../assets/enhancements/Radiance.webp){ width="24" }
 
 ---
 
