@@ -204,7 +204,10 @@ a.guide-card-link:hover {
 
 /* Enhancement Icons inline */
 .md-typeset p img[width="24"],
-.md-typeset li img[width="24"] {
+.md-typeset li img[width="24"],
+.md-typeset p img[width="32"],
+.md-typeset li img[width="32"],
+.md-typeset h3 img[width="32"] {
   vertical-align: middle;
   margin: 0 2px;
   border-radius: 4px;
@@ -213,7 +216,10 @@ a.guide-card-link:hover {
 }
 
 .md-typeset p img[width="24"]:hover,
-.md-typeset li img[width="24"]:hover {
+.md-typeset li img[width="24"]:hover,
+.md-typeset p img[width="32"]:hover,
+.md-typeset li img[width="32"]:hover,
+.md-typeset h3 img[width="32"]:hover {
   transform: scale(2.5);
   border-color: #ffb300;
   box-shadow: 0 4px 16px rgba(255, 179, 0, 0.6);
