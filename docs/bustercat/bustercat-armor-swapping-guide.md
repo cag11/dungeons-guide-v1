@@ -1,0 +1,12 @@
+# 🔄 Armor Swapping Guide
+
+📺 **Video Tutorial:** [Watch this video](https://www.youtube.com/watch?v=tHJyg1AlIzM&t=474s)
+
+## 🎯 How to Do It:
+
+- 📦 Have the **heros/mystery armor** at the top of your inventory to switch to faster
+- 💊 When using a health potion:
+  - ⚡ Switch to the armor
+  - 🍷 Use health potion
+  - 🔙 Switch back to the main armor
+
