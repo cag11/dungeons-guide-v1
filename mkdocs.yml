@@ -30,8 +30,8 @@ nav:
   - Home: index.md
   - Agenciak's Guides:
     - agenciak/index.md
-    - Melee Guide: agenciak/melee-guide.md
-    - Rolling Guide: agenciak/rolling-guide.md
+    - Melee Guide: agenciak/agenciak-melee-guide.md
+    - Rolling Guide: agenciak/agenciak-rolling-guide.md
   - BusterCat's Guides:
     - bustercat/index.md
   - GrimReaper's Guides:

@@ -26,6 +26,14 @@
   </div>
 </a>
 
+<a href="agenciak-glossary/" class="guide-card-link">
+  <div class="guide-card">
+    <div class="guide-card-icon">📖</div>
+    <h3 class="guide-card-title">Glossary</h3>
+    <p class="guide-card-desc">Useful terms and definitions explained in detail. Learn about DR, EHP, damage types, and more!</p>
+  </div>
+</a>
+
 </div>
 
 ---
