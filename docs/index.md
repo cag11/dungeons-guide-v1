@@ -7,61 +7,61 @@
 </div>
 
 <div class="guide-cards">
-  <div class="guide-card">
-    <a href="agenciak/">
+  <a href="agenciak/" class="guide-card-link">
+    <div class="guide-card">
       <img src="assets/people/agenciak.webp" alt="Agenciak" class="guide-card-avatar">
       <h2 class="guide-card-title">Agenciak's Guides</h2>
       <p class="guide-card-desc">Comprehensive beginner-friendly guides covering melee combat, rolling mechanics, and powerful builds.</p>
-    </a>
-  </div>
+    </div>
+  </a>
 
-  <div class="guide-card">
-    <a href="bustercat/">
+  <a href="bustercat/" class="guide-card-link">
+    <div class="guide-card">
       <img src="assets/people/bustercat.webp" alt="BusterCat" class="guide-card-avatar">
       <h2 class="guide-card-title">BusterCat's Guides</h2>
       <p class="guide-card-desc">Expert strategies and powerful builds to maximize your efficiency and dominate the dungeons.</p>
-    </a>
-  </div>
+    </div>
+  </a>
 
-  <div class="guide-card">
-    <a href="grimreaper/">
+  <a href="grimreaper/" class="guide-card-link">
+    <div class="guide-card">
       <img src="assets/people/grimreaper.webp" alt="GrimReaper" class="guide-card-avatar">
       <h2 class="guide-card-title">GrimReaper's Guides</h2>
       <p class="guide-card-desc">Dark arts and mysterious strategies to conquer your enemies with devastating power.</p>
-    </a>
-  </div>
+    </div>
+  </a>
 
-  <div class="guide-card">
-    <a href="pancake/">
+  <a href="pancake/" class="guide-card-link">
+    <div class="guide-card">
       <img src="assets/people/pancake.webp" alt="Pancake" class="guide-card-avatar">
       <h2 class="guide-card-title">Pancake's Guides</h2>
       <p class="guide-card-desc">Creative builds and unique strategies offering fresh perspectives and innovative solutions.</p>
-    </a>
-  </div>
+    </div>
+  </a>
 
-  <div class="guide-card">
-    <a href="shins/">
+  <a href="shins/" class="guide-card-link">
+    <div class="guide-card">
       <img src="assets/people/shin.webp" alt="Shin" class="guide-card-avatar">
       <h2 class="guide-card-title">Shin's Guides</h2>
       <p class="guide-card-desc">Expert strategies and advanced techniques from Shin. Master the hardest content in the game.</p>
-    </a>
-  </div>
+    </div>
+  </a>
 
-  <div class="guide-card">
-    <a href="reddit/">
+  <a href="reddit/" class="guide-card-link">
+    <div class="guide-card">
       <div class="guide-card-icon">💬</div>
       <h2 class="guide-card-title">Reddit Guides</h2>
       <p class="guide-card-desc">Community-curated guides from the Minecraft Dungeons subreddit. Learn from the best players.</p>
-    </a>
-  </div>
+    </div>
+  </a>
 
-  <div class="guide-card">
-    <a href="other/">
+  <a href="other/" class="guide-card-link">
+    <div class="guide-card">
       <div class="guide-card-icon">🔗</div>
       <h2 class="guide-card-title">Other Sources</h2>
       <p class="guide-card-desc">Additional resources, tools, and guides from around the web. Calculators, wikis, and more!</p>
-    </a>
-  </div>
+    </div>
+  </a>
 </div>
 
 ---
@@ -72,11 +72,11 @@
 
 **New to Minecraft Dungeons?** Start with **Agenciak's Guides** for beginner-friendly content!
 
-Looking for creative strategies? Check out **BusterCat's** or **Pancake's Guides** for unique approaches.
+<p>Looking for creative strategies? Check out **BusterCat's** or **Pancake's Guides** for unique approaches.</p>
 
-Want endgame strategies? Explore **Shin's Guides** for expert-level tactics.
+<p>Want endgame strategies? Explore **Shin's Guides** for expert-level tactics.</p>
 
-Need devastating power? **GrimReaper's Guides** have you covered with dark arts builds.
+<p>Need devastating power? **GrimReaper's Guides** have you covered with dark arts builds.</p>
 
 </div>
 

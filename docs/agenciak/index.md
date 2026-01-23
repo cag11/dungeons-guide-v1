@@ -10,21 +10,21 @@
 
 <div class="guide-cards" style="grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));">
 
-<div class="guide-card">
-  <a href="melee-guide/">
+<a href="melee-guide/" class="guide-card-link">
+  <div class="guide-card">
     <div class="guide-card-icon">⚔️</div>
     <h3 class="guide-card-title">Melee Combat Guide</h3>
     <p class="guide-card-desc">Learn the fundamentals of melee combat, weapon types, and basic strategies for beginners.</p>
-  </a>
-</div>
+  </div>
+</a>
 
-<div class="guide-card">
-  <a href="rolling-guide/">
+<a href="rolling-guide/" class="guide-card-link">
+  <div class="guide-card">
     <div class="guide-card-icon">💨</div>
     <h3 class="guide-card-title">Rolling Mechanics Guide</h3>
     <p class="guide-card-desc">Master the art of rolling and dodging to survive the toughest battles with i-frames!</p>
-  </a>
-</div>
+  </div>
+</a>
 
 </div>
 

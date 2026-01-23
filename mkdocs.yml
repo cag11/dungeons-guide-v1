@@ -1,5 +1,5 @@
 site_name: Minecraft Dungeons Guides
-site_url: https://mydomain.org/mysite
+site_url: https://dungeonss.vercel.app
 theme:
   name: material
   logo: images/logo.webp
