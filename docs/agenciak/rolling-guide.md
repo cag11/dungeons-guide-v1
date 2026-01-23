@@ -2,7 +2,7 @@
 
 ## What is a "rolling build"?
 
-The core of it being rolling build is ![Burstbowstring](../assets/enhancements/Burst_Bowstring.webp){ width="24" } Burstbowstring paired with ![Cooldown Shot](../assets/enhancements/Cooldown_Shot_(MCD_Enchantment).webp){ width="24" } Cooldown shot and a ![Light Feather](../assets/enhancements/Roll_Charge.webp){ width="24" } Light feather, how does it work? ![Burstbowstring](../assets/enhancements/Burst_Bowstring.webp){ width="24" } Burstbowstring triggers every time you roll, shooting out 1 fully charged arrow per enemy (up to 3 arrows), each of them triggers ![Cooldown Shot](../assets/enhancements/Cooldown_Shot_(MCD_Enchantment).webp){ width="24" } Cooldownshot speeding up your artifact cooldown 1.5s per charged shot, ![Light Feather](../assets/enhancements/Roll_Charge.webp){ width="24" } Light feather has a 3s cooldown, which means that you get to roll constantly shooting 3 charged arrows (which shortens your cooldown by 4.5s, allowing for a second roll using the feather right after) every time you do it with the only condition being close to at least 2 enemies
+The core of it being rolling build is ![Burstbowstring](../assets/enhancements/Burst_Bowstring.webp){ width="24" } Burstbowstring paired with ![Cooldown Shot](../assets/enhancements/Cooldown_Shot_(MCD_Enchantment).webp){ width="24" } Cooldown shot and a ![Light Feather](../assets/artifacts/Light_Feather_(MCD).webp){ width="24" } Light feather, how does it work? ![Burstbowstring](../assets/enhancements/Burst_Bowstring.webp){ width="24" } Burstbowstring triggers every time you roll, shooting out 1 fully charged arrow per enemy (up to 3 arrows), each of them triggers ![Cooldown Shot](../assets/enhancements/Cooldown_Shot_(MCD_Enchantment).webp){ width="24" } Cooldownshot speeding up your artifact cooldown 1.5s per charged shot, ![Light Feather](../assets/artifacts/Light_Feather_(MCD).webp){ width="24" } Light feather has a 3s cooldown, which means that you get to roll constantly shooting 3 charged arrows (which shortens your cooldown by 4.5s, allowing for a second roll using the feather right after) every time you do it with the only condition being close to at least 2 enemies
 
 Remember that you need a ton of arrows for it to work, that's why you need ![Looting](../assets/enhancements/Looting.webp){ width="24" } Looting or ![Infinity](../assets/enhancements/Infinity.webp){ width="24" } Infinity
 
@@ -38,7 +38,7 @@ Remember that you need a ton of arrows for it to work, that's why you need ![Loo
 
 ![Looting](../assets/enhancements/Looting.webp){ width="24" } **Looting** - if you don't use quivers,
 
-![Multishot](../assets/enhancements/Multishot.webp){ width="24" } **Multishot** - if you use ![Winter's Touch](../assets/enhancements/Freezing.webp){ width="24" } Winter's touch, has a 40% to turn each arrow you shoot out into 5 projectiles, it's very effective on ![Winter's Touch](../assets/enhancements/Freezing.webp){ width="24" } Winter's touch, because it shoots out 3 arrows (meaning each of them has a 40% chance for it activate)
+![Multishot](../assets/enhancements/Multishot.webp){ width="24" } **Multishot** - if you use <img src="../assets/ranged/Winter's_Touch_(MCD).webp" width="24" alt="Winter's Touch" style="vertical-align: middle;"> Winter's touch, has a 40% to turn each arrow you shoot out into 5 projectiles, it's very effective on <img src="../assets/ranged/Winter's_Touch_(MCD).webp" width="24" alt="Winter's Touch" style="vertical-align: middle;"> Winter's touch, because it shoots out 3 arrows (meaning each of them has a 40% chance for it activate)
 
 ![Tempo Theft](../assets/enhancements/Tempo_Theft.webp){ width="24" } **Tempo theft** - **good**, slows down enemies and speeds you up
 
@@ -55,12 +55,12 @@ You can exploit the fact that you constantly roll by using ![Poison](../assets/e
 ### ![Encrusted Anchor](../assets/melee/Encrusted_Anchor_(MCD).webp){ width="24" } Encrusted Anchor
 Very high damage and area
 
-![Sharpness](../assets/enhancements/Sharpness.webp){ width="24" } + ![Voidstrike](../assets/enhancements/Void_Strike.webp){ width="24" } + ![Critical Hit](../assets/enhancements/Critical_Hit.webp){ width="24" } / ![Committed](../assets/enhancements/Committed.webp){ width="24" } + ![Swirling](../assets/enhancements/T_Swirling_Icon.webp){ width="24" } / ![Shockwave](../assets/enhancements/Shockwave.webp){ width="24" } / ![Gravity](../assets/enhancements/Gravity.webp){ width="24" } / ![Stunning](../assets/enhancements/Stunning.webp){ width="24" }
+![Dynamo](../assets/enhancements/DynamoMelee.webp){ width="24" } + ![Voidstrike](../assets/enhancements/Void_Strike.webp){ width="24" } + ![Weakening](../assets/enhancements/Weakening.webp){ width="24" } / ![Prospector](../assets/enhancements/Prospector.webp){ width="24" } + ![Prospector](../assets/enhancements/Prospector.webp){ width="24" } / ![Unchanting](../assets/enhancements/Unchanting.webp){ width="24" } / ![Ambush](../assets/enhancements/Ambush.webp){ width="24" } / ![Guarding Strike](../assets/enhancements/Guarding_Strike_(MCD_Enchantment).webp){ width="24" }
 
 ### ![Vine Whip](../assets/melee/Vine_Whip_(MCD).webp){ width="24" } Vine Whip
 Long reach, high damage
 
-![Sharpness](../assets/enhancements/Sharpness.webp){ width="24" } + ![Voidstrike](../assets/enhancements/Void_Strike.webp){ width="24" } + ![Critical Hit](../assets/enhancements/Critical_Hit.webp){ width="24" } / ![Committed](../assets/enhancements/Committed.webp){ width="24" } + ![Swirling](../assets/enhancements/T_Swirling_Icon.webp){ width="24" } / ![Shockwave](../assets/enhancements/Shockwave.webp){ width="24" } / ![Gravity](../assets/enhancements/Gravity.webp){ width="24" } / ![Stunning](../assets/enhancements/Stunning.webp){ width="24" }
+![Dynamo](../assets/enhancements/DynamoMelee.webp){ width="24" } + ![Voidstrike](../assets/enhancements/Void_Strike.webp){ width="24" } + ![Gravity](../assets/enhancements/Gravity.webp){ width="24" } + ![Prospector](../assets/enhancements/Prospector.webp){ width="24" } / ![Unchanting](../assets/enhancements/Unchanting.webp){ width="24" } / ![Ambush](../assets/enhancements/Ambush.webp){ width="24" } / ![Guarding Strike](../assets/enhancements/Guarding_Strike_(MCD_Enchantment).webp){ width="24" }
 
 ---
 
@@ -75,7 +75,7 @@ For normal rolling
 - +35% damage reduction
 - -50% rolling cooldown
 
-![Sharpness](../assets/enhancements/Sharpness.webp){ width="24" } + ![Voidstrike](../assets/enhancements/Void_Strike.webp){ width="24" } + ![Burning](../assets/enhancements/Burning.webp){ width="24" } / ![Chilling](../assets/enhancements/Chilling.webp){ width="24" } + ![Cooldown](../assets/enhancements/Cool_Down.webp){ width="24" } + ![Lightning Focus](../assets/enhancements/LightningFocus_(MCD_Enchantment).webp){ width="24" } (![Lightning Focus](../assets/enhancements/LightningFocus_(MCD_Enchantment).webp){ width="24" } Lightning focus only with ![Thundering Quiver](../assets/enhancements/Thundering.webp){ width="24" } Thundering Quiver or ![Satchel of Elements](../assets/enhancements/Echo.webp){ width="24" } Satchel of Elements)
+![Health Synergy](../assets/enhancements/Health_Synergy.webp){ width="24" } + ![Death Barter](../assets/enhancements/Death_Barter.webp){ width="24" } + ![Potion Barrier](../assets/enhancements/Potion_Barrier.webp){ width="24" } / ![Poison Focus](../assets/enhancements/PoisonFocus_(MCD_Enchantment).webp){ width="24" } / ![Lightning Focus](../assets/enhancements/LightningFocus_(MCD_Enchantment).webp){ width="24" } + ![Cooldown](../assets/enhancements/Cool_Down.webp){ width="24" }  (![Lightning Focus](../assets/enhancements/LightningFocus_(MCD_Enchantment).webp){ width="24" } Lightning focus only with ![Thundering Quiver](../assets/artifacts/Thundering_Quiver_(MCD).webp){ width="24" } Thundering Quiver or ![Satchel of Elements](../assets/artifacts/Satchel_of_Elements_(MCD).webp){ width="24" } Satchel of Elements)
 
 ### ![Glow Squid Armor](../assets/armor/Glow_Squid_Armor_(MCD).webp){ width="24" } Glow Squid Armor
 For normal rolling
@@ -84,7 +84,7 @@ For normal rolling
 - +15% movespeed aura
 - shoots out ink, making enemies miss some hits
 
-![Fire Trail](../assets/enhancements/Fire_Trail.webp){ width="24" } + ![Voidstrike](../assets/enhancements/Void_Strike.webp){ width="24" } + ![Burning](../assets/enhancements/Burning.webp){ width="24" } / ![Chilling](../assets/enhancements/Chilling.webp){ width="24" } + ![Cooldown](../assets/enhancements/Cool_Down.webp){ width="24" } + ![Lightning Focus](../assets/enhancements/LightningFocus_(MCD_Enchantment).webp){ width="24" } (![Lightning Focus](../assets/enhancements/LightningFocus_(MCD_Enchantment).webp){ width="24" } Lightning focus only with ![Thundering Quiver](../assets/enhancements/Thundering.webp){ width="24" } Thundering Quiver or ![Satchel of Elements](../assets/enhancements/Echo.webp){ width="24" } Satchel of Elements)
+![Health Synergy](../assets/enhancements/Health_Synergy.webp){ width="24" } + ![Death Barter](../assets/enhancements/Death_Barter.webp){ width="24" } + ![Potion Barrier](../assets/enhancements/Potion_Barrier.webp){ width="24" } / ![Poison Focus](../assets/enhancements/PoisonFocus_(MCD_Enchantment).webp){ width="24" } / ![Lightning Focus](../assets/enhancements/LightningFocus_(MCD_Enchantment).webp){ width="24" } + ![Cooldown](../assets/enhancements/Cool_Down.webp){ width="24" }  (![Lightning Focus](../assets/enhancements/LightningFocus_(MCD_Enchantment).webp){ width="24" } Lightning focus only with ![Thundering Quiver](../assets/artifacts/Thundering_Quiver_(MCD).webp){ width="24" } Thundering Quiver or ![Satchel of Elements](../assets/artifacts/Satchel_of_Elements_(MCD).webp){ width="24" } Satchel of Elements)
 
 ### ![Splendid Robe](../assets/armor/Splendid_Robe_(MCD).webp){ width="24" } Splendid Robe
 For artifact spam
@@ -93,13 +93,13 @@ For artifact spam
 - +30% melee damage
 - +50% artifact damage
 
-![Fire Trail](../assets/enhancements/Fire_Trail.webp){ width="24" } + ![Voidstrike](../assets/enhancements/Void_Strike.webp){ width="24" } + ![Cooldown](../assets/enhancements/Cool_Down.webp){ width="24" } + ![Cooldown](../assets/enhancements/Cool_Down.webp){ width="24" }
+![Health Synergy](../assets/enhancements/Health_Synergy.webp){ width="24" } + ![Death Barter](../assets/enhancements/Death_Barter.webp){ width="24" } + ![Cooldown](../assets/enhancements/Cool_Down.webp){ width="24" } + ![Cooldown](../assets/enhancements/Cool_Down.webp){ width="24" }  
 
 ---
 
 ## Artifacts
 
-![Death Cap Mushroom](../assets/enhancements/Frenzied.webp){ width="24" } + ![Light Feather](../assets/enhancements/Roll_Charge.webp){ width="24" } / ![Gong of Weakening](../assets/enhancements/Weakening.webp){ width="24" } / ![Iron Hide Amulet](../assets/enhancements/Deflect.webp){ width="24" } / ![Totem of Regeneration](../assets/enhancements/Life_Boost.webp){ width="24" } / ![Totem of Shielding](../assets/enhancements/Potion_Barrier.webp){ width="24" } + ![Quiver](../assets/enhancements/Power.webp){ width="24" } *(added)*
+![Death Cap Mushroom](../assets/artifacts/Death_Cap_Mushroom_(MCD).webp){ width="24" } + ![Satchel of Elements](../assets/artifacts/Satchel_of_Elements_(MCD).webp){ width="24" } / ![Iron Hide Amulet](../assets/artifacts/Iron_Hide_Amulet_(MCD).webp){ width="24" } / ![Thundering Quiver](../assets/artifacts/Thundering_Quiver_(MCD).webp){ width="24" } / ![Fireworks Arrow](../assets/artifacts/Fireworks_Arrow_(MCD).webp){ width="24" } / ![Harpoon Quiver](../assets/artifacts/Harpoon_Quiver_(MCD).webp){ width="24" } + ![Light Feather](../assets/artifacts/Light_Feather_(MCD).webp){ width="24" }
 
 ---
 

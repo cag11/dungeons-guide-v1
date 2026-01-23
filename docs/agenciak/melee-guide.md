@@ -119,7 +119,7 @@
 
 ![Surprise Gift](../assets/enhancements/Surprise_Gift.webp){ width="24" } **Surprise gift** - **only in specific builds**, you have 50% chance to create a random consumable item, but that also could be used by itself, but combined with ![Refreshment](../assets/enhancements/Refreshment_Melee_(MCD_Enchantment).webp){ width="24" } Refreshment it can be really helpful, often used alongside ![Potion Barrier](../assets/enhancements/Potion_Barrier.webp){ width="24" } Potion Barrier **in health potion spam builds**
 
-![Reckless](../assets/enhancements/Reckless_(MCD_Enchantment).webp){ width="24" } **Reckless** - **only in specific builds**, you have 40% less HP, but deal 90% more damage, it should be used only in builds with a lot of damage reduction *(added)*
+![Reckless](../assets/enhancements/Reckless_(MCD_Enchantment).webp){ width="24" } **Reckless** - **only in specific builds**, you have 40% less HP, but deal 90% more damage, it should be used only in builds with a lot of damage reduction
 
 ---
 
