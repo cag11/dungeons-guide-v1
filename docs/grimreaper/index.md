@@ -8,7 +8,7 @@
 
 ## 💀 Philosophy
 
-The path to power requires understanding the darker aspects of combat. These builds embrace chaos, domination, and raw power. High risk, high reward!
+These are **creatively themed builds** inspired by characters, stories, and legends. They're designed for fun and roleplay, not necessarily for optimal performance or meta strategies. Each build tells a story!
 
 ---
 
@@ -297,9 +297,9 @@ The path to power requires understanding the darker aspects of combat. These bui
 
 ---
 
-!!! danger "Warning: High Risk, High Reward"
-    These strategies are designed for players who want to push the limits and embrace the dark arts of combat!
+!!! info "Themed for Fun & Creativity"
+    These builds are designed for thematic enjoyment and roleplay. They're not optimized for meta gameplay—just pure creative fun!
 
 <div style="text-align: center; margin-top: 40px;">
-  <p style="font-size: 1.2em; color: #b794f6;">261 Builds of Pure Domination</p>
+  <p style="font-size: 1.2em; color: #b794f6;">261 Themed Builds for Creative Players</p>
 </div>

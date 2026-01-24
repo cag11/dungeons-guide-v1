@@ -47,7 +47,7 @@ hero_buttons:
         <div class="guide-card">
           <img src="assets/people/grimreaper.webp" alt="GrimReaper" class="guide-card-avatar">
           <h3 class="guide-card-title">GrimReaper's Guides</h3>
-          <p class="guide-card-desc">Epic collection: 262 themed builds embracing chaos and power. From dark sorcerers to legendary heroes, dominate with creative strategies.</p>
+          <p class="guide-card-desc">Creative collection: 262 themed builds inspired by pop culture, mythology, and legends. Fun, roleplay-focused strategies—not meta builds.</p>
         </div>
       </a>
 
