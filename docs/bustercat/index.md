@@ -34,6 +34,22 @@
   </div>
 </a>
 
+<a href="bustercat-tierlist/" class="guide-card-link">
+  <div class="guide-card">
+    <div class="guide-card-icon">📊</div>
+    <h3 class="guide-card-title">Tierlist</h3>
+    <p class="guide-card-desc">Comprehensive tier rankings for weapons, armor, and gear in Minecraft Dungeons. Expert evaluations across all categories.</p>
+  </div>
+</a>
+
+<a href="bustercat-tankiest-rolling-builds-guide/" class="guide-card-link">
+  <div class="guide-card">
+    <div class="guide-card-icon">🎲</div>
+    <h3 class="guide-card-title">Tankiest Rolling Builds Guide</h3>
+    <p class="guide-card-desc">Ultimate rolling build strategies for maximum survivability. Master the art of invincible rolling combat.</p>
+  </div>
+</a>
+
 </div>
 
 ---
