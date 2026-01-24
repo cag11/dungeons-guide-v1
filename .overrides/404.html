@@ -1,0 +1,34 @@
+{% extends "base.html" %}
+
+{% block site_nav %}{% endblock %}
+
+{% block content %}
+  <div class="md-content" data-md-component="content">
+    <article class="md-content__inner md-typeset">
+      <div style="text-align: center; padding: 2rem 0; min-height: 70vh; display: flex; align-items: center; justify-content: center;">
+        <a href="{{ config.site_url or '/' }}" style="display: inline-block; cursor: pointer;">
+          <img src="{{ 'images/404.webp' | url }}" alt="404 - Page Not Found - Click to go home" style="max-width: 600px; width: 100%; height: auto; transition: transform 0.3s ease, opacity 0.3s ease;">
+        </a>
+      </div>
+    </article>
+  </div>
+
+  <style>
+    /* Remove left sidebar on 404 page */
+    .md-sidebar--primary {
+      display: none;
+    }
+
+    /* Make main content full width */
+    .md-content {
+      max-width: 100%;
+      margin-left: 0;
+    }
+
+    /* Hover effect for the image */
+    .md-content__inner a:hover img {
+      transform: scale(1.05);
+      opacity: 0.9;
+    }
+  </style>
+{% endblock %}
