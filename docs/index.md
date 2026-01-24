@@ -60,7 +60,7 @@ hero_buttons:
         <div class="guide-card">
           <img src="assets/people/shin.webp" alt="Shin" class="guide-card-avatar">
           <h3 class="guide-card-title">Shin's Guides</h3>
-          <p class="guide-card-desc">Expert strategies and advanced techniques from Shin. Master the hardest content in the game.</p>
+          <p class="guide-card-desc">In-depth mechanical breakdowns and system analysis. Learn why builds work, not just what works—bridging the gap from follower to strategist.</p>
         </div>
       </a>
 
@@ -145,8 +145,8 @@ hero_buttons:
       </div>
 
       <div class="quickstart-item">
-        <h3>💪 Endgame Players</h3>
-        <p>Explore <a href="shins/">Shin's Guides</a> for expert-level tactics and strategies for the hardest content.</p>
+        <h3>🧠 Understanding Mechanics</h3>
+        <p>Dive into <a href="shins/">Shin's Guides</a> to learn how the game actually works—enchantment scaling, AI behavior, and why builds succeed or fail.</p>
       </div>
 
       <div class="quickstart-item">

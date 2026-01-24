@@ -1,4 +1,4 @@
-﻿# :link: Other Sources
+﻿﻿# :link: Other Sources
 
 Additional resources, tools, and guides from across the Minecraft Dungeons community.
 
@@ -49,7 +49,7 @@ Active community hubs for builds, discussion, and help:
 Many talented creators share their knowledge across different platforms.
 
 ### YouTube Channels
-- **Shin FTW** – Builds, tower strategies, and high-level gameplay  
+- **Shin FTW** – Mechanic breakdowns, build explanations, and teaching why strategies work  
   [https://www.youtube.com/@Shin_FTW](https://www.youtube.com/@Shin_FTW)
 
 - **DamoFlamo26** – Build showcases and gear breakdowns  
