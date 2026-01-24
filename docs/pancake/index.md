@@ -128,6 +128,14 @@
       <p class="guide-card-desc">Comprehensive damage-per-second calculations and weapon comparisons.</p>
     </div>
   </a>
+
+  <a href="pancake-pain-cycle-guide/" class="guide-card-link">
+    <div class="guide-card">
+      <div class="guide-card-icon">💢</div>
+      <h3 class="guide-card-title">Pain Cycle Guide</h3>
+      <p class="guide-card-desc">Complete analysis of Pain Cycle enchantment mechanics and optimal usage strategies.</p>
+    </div>
+  </a>
 </div>
 
 ---
