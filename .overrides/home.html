@@ -1,0 +1,60 @@
+﻿{% extends "main.html" %}
+{# Remove sidebars and TOC completely #}
+{% block site_nav %}{% endblock %}
+{% block content %}{% endblock %}
+{# Custom container with parallax sections #}
+{% block container %}
+  <div class="md-container" data-md-component="container">
+    {# Parallax group with background images #}
+    <div class="mdx-parallax" data-mdx-component="parallax">
+      <section class="mdx-parallax__group" data-md-color-scheme="slate">
+        {# Background layer - NO CACHE #}
+        <div class="mdx-parallax__layer mdx-parallax__layer--back">
+          <img src="{{ 'images/background.webp' | url }}" alt="" class="mdx-parallax__image">
+        </div>
+        {# Overlay layer #}
+        <div class="mdx-parallax__layer mdx-parallax__layer--front">
+          <img src="{{ 'images/overlay.webp' | url }}" alt="" class="mdx-parallax__image mdx-parallax__image--overlay">
+        </div>
+        {# Hero content on top #}
+        <div class="mdx-hero" data-mdx-component="hero">
+          <div class="mdx-hero__scrollwrap md-grid">
+            <div class="mdx-hero__inner">
+              <div class="mdx-hero__teaser md-typeset">
+                <h1>{{ page.meta.get("title", config.site_name) }}</h1>
+                {% if page.meta and page.meta.hero_description %}
+                  <p>{{ page.meta.hero_description }}</p>
+                {% endif %}
+                {% if page.meta and page.meta.hero_buttons %}
+                  {% for button in page.meta.hero_buttons %}
+                    <a href="{{ button.link }}" class="md-button {{ button.class }}">
+                      {{ button.text }}
+                    </a>
+                  {% endfor %}
+                {% endif %}
+              </div>
+              {% if page.meta and page.meta.hero_image %}
+                <div class="mdx-hero__image">
+                  <img src="{{ page.meta.hero_image }}" alt="{{ config.site_name }}">
+                </div>
+              {% endif %}
+            </div>
+          </div>
+        </div>
+      </section>
+      {# Content section after parallax #}
+      <section class="mdx-parallax__group mdx-parallax__group--content" data-md-color-scheme="default">
+        <div class="md-content md-grid" data-md-component="content">
+          <div class="md-content__inner md-typeset">
+            {{ page.content }}
+          </div>
+        </div>
+      </section>
+    </div>
+  </div>
+{% endblock %}
+{# Add styles #}
+{% block styles %}
+  {{ super() }}
+  <link rel="stylesheet" href="{{ 'stylesheets/home.css' | url }}">
+{% endblock %}
