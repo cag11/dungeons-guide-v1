@@ -42,11 +42,11 @@
   </div>
 </a>
 
-<a href="bustercat-tankiest-rolling-builds-guide/" class="guide-card-link">
+<a href="bustercat-tankiest-builds-guide/" class="guide-card-link">
   <div class="guide-card">
     <div class="guide-card-icon">🎲</div>
-    <h3 class="guide-card-title">Tankiest Rolling Builds Guide</h3>
-    <p class="guide-card-desc">Ultimate rolling build strategies for maximum survivability. Master the art of invincible rolling combat.</p>
+    <h3 class="guide-card-title">Tankiest Builds Guide</h3>
+    <p class="guide-card-desc">Ultimate build strategies for maximum survivability. Master the art of invincible combat.</p>
   </div>
 </a>
 
