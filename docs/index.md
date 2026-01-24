@@ -1,7 +1,7 @@
 ---
 template: home.html
-title: ⚔️ Minecraft Dungeons Guides ⚔️
-hero_description: Your Ultimate Resource for Mastering the Dungeons
+title: DungeonsHub
+hero_description: Your Ultimate Resource for Mastering Minecraft Dungeons
 hero_buttons:
   - text: Get Started
     link: agenciak/
@@ -13,8 +13,8 @@ hero_buttons:
 
 <section class="landing-section landing-section--intro">
   <div class="landing-section__inner">
-    <h2>Everything You Need to Master Minecraft Dungeons</h2>
-    <p class="landing-section__lead">From beginner basics to advanced strategies, discover comprehensive guides created by the community's best players. Whether you're just starting out or pushing for Apocalypse+ clears, we've got you covered.</p>
+    <h2>Welcome to DungeonsHub</h2>
+    <p class="landing-section__lead">Your central hub for Minecraft Dungeons mastery. From beginner basics to advanced strategies, discover comprehensive guides created by the community's best players. Whether you're just starting out or pushing for Apocalypse+ clears, we've got you covered.</p>
   </div>
 </section>
 

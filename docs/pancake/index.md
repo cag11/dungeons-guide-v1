@@ -8,7 +8,21 @@
 
 ## :sparkles: Featured Guides
 
-Coming soon! Check back for innovative content including:
+<div class="guide-cards">
+  <a href="pancake-spear-guide/" class="guide-card-link">
+    <div class="guide-card">
+      <div class="guide-card-icon">🔱</div>
+      <h3 class="guide-card-title">Spear Info Chart</h3>
+      <p class="guide-card-desc">Comprehensive guide covering everything about Spear including god rolls, stats, damage calculations, and strategic usage.</p>
+    </div>
+  </a>
+</div>
+
+---
+
+## 🎯 Coming Soon
+
+More innovative content including:
 
 - 🎨 Creative build concepts
 - 🔧 Unique gear combinations
