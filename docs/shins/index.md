@@ -6,31 +6,6 @@
 
 ---
 
-## 🧠 Teaching Philosophy
-
-Shin's guides focus on **game understanding** rather than just build lists. The goal is simple: **turn you from a guide-follower into someone who understands the system**.
-
-Instead of just telling you "use this build," Shin explains:
-- **Why** enchantments work the way they do
-- **How** damage scaling actually functions
-- **What** makes a build Apocalypse-ready
-
----
-
-## 🎯 Who These Guides Are For
-
-### 🌉 The Bridge Between Beginner and Intermediate
-
-You've learned the basics from other guides, but now you want to know:
-
-- Why does this enchantment combo work?
-- How do I adapt builds instead of just copying them?
-- What happens when I change difficulty levels?
-
-**That's where Shin's content shines.**
-
----
-
 ## 📚 Featured Guides
 
 <div class="guide-cards">
@@ -222,6 +197,31 @@ You've learned the basics from other guides, but now you want to know:
     - [Black Wolf Armor](shin-armor-33_black_wolf_armor)
     - [Unstable Robes](shin-armor-34_unstable_robes)
     - [Cave Crawler and Sweet Tooth](shin-armor-35_cave_crawler_and_sweet_tooth)
+
+---
+
+## 🧠 Teaching Philosophy
+
+Shin's guides focus on **game understanding** rather than just build lists. The goal is simple: **turn you from a guide-follower into someone who understands the system**.
+
+Instead of just telling you "use this build," Shin explains:
+- **Why** enchantments work the way they do
+- **How** damage scaling actually functions
+- **What** makes a build Apocalypse-ready
+
+---
+
+## 🎯 Who These Guides Are For
+
+### 🌉 The Bridge Between Beginner and Intermediate
+
+You've learned the basics from other guides, but now you want to know:
+
+- Why does this enchantment combo work?
+- How do I adapt builds instead of just copying them?
+- What happens when I change difficulty levels?
+
+**That's where Shin's content shines.**
 
 ---
 
