@@ -1,0 +1,260 @@
+﻿    - "Build: The Big Bad Wolf": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-1-the-big-bad-wolf.md
+    - "Build: The Three Fancy Musketeers": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-10-the-three-fancy-musketeers.md
+    - "Build: Asra The Shadow Assassin": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-100-asra-the-shadow-assassin.md
+    - "Build: The Knight Of The Void": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-101-the-knight-of-the-void.md
+    - "Build: The Warden Of The Gates Of Hell": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-102-the-warden-of-the-gates-of-hell.md
+    - "Build: Disneys Robin Hood": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-103-disneys-robin-hood.md
+    - "Build: The Holy Goat": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-104-the-holy-goat.md
+    - "Build: Ice Demon": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-105-ıce-demon.md
+    - "Build: The Genie Of The Void": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-106-the-genie-of-the-void.md
+    - "Build: The Jailor": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-107-the-jailor.md
+    - "Build: Head Smasher": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-108-head-smasher.md
+    - "Build: The Namahage": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-109-the-namahage.md
+    - "Build: The Piglin Outcast": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-11-the-piglin-outcast.md
+    - "Build: The Proud Thief": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-110-the-proud-thief.md
+    - "Build: King Jack": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-111-king-jack.md
+    - "Build: The Evil Librarians": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-112-the-evil-librarians.md
+    - "Build: The Toxic Bandit": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-113-the-toxic-bandit.md
+    - "Build: Electric Titan": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-114-electric-titan.md
+    - "Build: The Vanquiser Of Evil": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-115-the-vanquiser-of-evil.md
+    - "Build: Valentines Day Cupid": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-116-valentines-day-cupid.md
+    - "Build: Leprechaun": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-117-leprechaun.md
+    - "Build: The Survivor": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-118-the-survivor.md
+    - "Build: The Conqueror": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-119-the-conqueror.md
+    - "Build: The Green Knight": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-12-the-green-knight.md
+    - "Build: The One Man Army": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-120-the-one-man-army.md
+    - "Build: The Grim Skeleton": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-121-the-grim-skeleton.md
+    - "Build: Storm Slayer": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-122-storm-slayer.md
+    - "Build: Pesta The Plague Hag": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-123-pesta-the-plague-hag.md
+    - "Build: Bob The Builder": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-124-bob-the-builder.md
+    - "Build: Ember Witch": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-125-ember-witch.md
+    - "Build: Blue Bloods": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-126-blue-bloods.md
+    - "Build: Knull": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-127-knull.md
+    - "Build: Orc Champions": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-128-orc-champions.md
+    - "Build: The Dark Warlock": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-129-the-dark-warlock.md
+    - "Build: The Shadow Ninja": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-13-the-shadow-ninja.md
+    - "Build: The Guardian Of The Rotten Forest": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-130-the-guardian-of-the-rotten-forest.md
+    - "Build: Frost Stalker": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-131-frost-stalker.md
+    - "Build: Raijin": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-132-raijin.md
+    - "Build: Fujin": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-133-fujin.md
+    - "Build: Darth Hectic": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-134-darth-hectic.md
+    - "Build: The Holy Angel": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-135-the-holy-angel.md
+    - "Build: The Jade Slayer": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-136-the-jade-slayer.md
+    - "Build: Devil Dog Whisperer": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-137-devil-dog-whisperer.md
+    - "Build: Tarkus Of Emberstruck": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-138-tarkus-of-emberstruck.md
+    - "Build: The Lich King": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-139-the-lich-king.md
+    - "Build: The Trio Of Dark Spirits": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-14-the-trio-of-dark-spirits.md
+    - "Build: Medieval Batman": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-140-medieval-batman.md
+    - "Build: Prince Nuada": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-141-prince-nuada.md
+    - "Build: Reptile": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-142-reptile.md
+    - "Build: Ghost Knight": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-143-ghost-knight.md
+    - "Build: The Enchantress": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-144-the-enchantress.md
+    - "Build: The Forgotten Prisoner": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-145-the-forgotten-prisoner.md
+    - "Build: The Spirit And The Three Lost Souls": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-146-the-spirit-and-the-three-lost-souls.md
+    - "Build: Harvest Hallow": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-147-harvest-hallow.md
+    - "Build: The Dark Overlord": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-148-the-dark-overlord.md
+    - "Build: Spirit Of The Goat": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-149-spirit-of-the-goat.md
+    - "Build: The Last Witch Hunter": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-15-the-last-witch-hunter.md
+    - "Build: The Boy And His Inner Demon": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-150-the-boy-and-his-ınner-demon.md
+    - "Build: The Grinch": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-151-the-grinch.md
+    - "Build: The Unholy Goat": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-152-the-unholy-goat.md
+    - "Build: The Evil Within The Orb": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-153-the-evil-within-the-orb.md
+    - "Build: Valkyrie": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-154-valkyrie.md
+    - "Build: The Gambler": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-155-the-gambler.md
+    - "Build: Tai Lung": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-156-tai-lung.md
+    - "Build: Baba Yaga And The Son Of The Corrupted Cauldron": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-157-baba-yaga-and-the-son-of-the-corrupted-cauldron.md
+    - "Build: The Kings Guard": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-158-the-kings-guard.md
+    - "Build: The Icy Kobolds": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-159-the-ıcy-kobolds.md
+    - "Build: The Horror Of Horrorland": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-16-the-horror-of-horrorland.md
+    - "Build: Deep Reef Devils": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-160-deep-reef-devils.md
+    - "Build: Evil Thor": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-161-evil-thor.md
+    - "Build: Sir Lightfoot Of Swiftsville": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-162-sir-lightfoot-of-swiftsville.md
+    - "Build: The Treant Of The Dark Forest": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-163-the-treant-of-the-dark-forest.md
+    - "Build: The Shadow Of Captain Darkside": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-164-the-shadow-of-captain-darkside.md
+    - "Build: The Fire Fighter": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-165-the-fire-fighter.md
+    - "Build: The Goblin Of Poison And Potions": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-166-the-goblin-of-poison-and-potions.md
+    - "Build: The Spell Caster": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-167-the-spell-caster.md
+    - "Build: The Devoted Monk": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-168-the-devoted-monk.md
+    - "Build: Shadow Archers": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-169-shadow-archers.md
+    - "Build: Thanos": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-17-thanos.md
+    - "Build: Lightning Fast": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-170-lightning-fast.md
+    - "Build: Captain Embers": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-171-captain-embers.md
+    - "Build: Paul Bunyan": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-172-paul-bunyan.md
+    - "Build: John Henry": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-173-john-henry.md
+    - "Build: The Wizard Of Future Sight": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-174-the-wizard-of-future-sight.md
+    - "Build: The Warden Of The Deep Dark": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-175-the-warden-of-the-deep-dark.md
+    - "Build: The Grand Witch Coven": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-176-the-grand-witch-coven.md
+    - "Build: The Devil": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-177-the-devil.md
+    - "Build: Flash Fire": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-178-flash-fire.md
+    - "Build: Sonic Boom": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-179-sonic-boom.md
+    - "Build: Magnet Man": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-18-magnet-man.md
+    - "Build: Troll": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-180-troll.md
+    - "Build: Bushi": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-181-bushi.md
+    - "Build: The Executioner Of The Void": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-182-the-executioner-of-the-void.md
+    - "Build: Toby Domzalski": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-183-toby-domzalski.md
+    - "Build: The Evil Nuns": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-184-the-evil-nuns.md
+    - "Build: Master Oogway": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-185-master-oogway.md
+    - "Build: Man Ray": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-186-man-ray.md
+    - "Build: The Beginning Of The End": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-187-the-beginning-of-the-end.md
+    - "Build: The Horned King": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-188-the-horned-king.md
+    - "Build: The Soul Revealer": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-189-the-soul-revealer.md
+    - "Build: Robin": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-19-robin.md
+    - "Build: Sir Gregory The Master Swordsman": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-190-sir-gregory-the-master-swordsman.md
+    - "Build: Molten Redstone": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-191-molten-redstone.md
+    - "Build: The Phantasm": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-192-the-phantasm.md
+    - "Build: The Night Witch": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-193-the-night-witch.md
+    - "Build: Lycanthrope": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-194-lycanthrope.md
+    - "Build: The Soul Harvester": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-195-the-soul-harvester.md
+    - "Build: Little Bo Peep  Master Of Sheep": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-196-little-bo-peep--master-of-sheep.md
+    - "Build: The Butcher The Baker And The Candlestick Maker": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-197-the-butcher-the-baker-and-the-candlestick-maker.md
+    - "Build: The Mad Pumpkin": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-198-the-mad-pumpkin.md
+    - "Build: Ovinnik": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-199-ovinnik.md
+    - "Build: Vikings": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-2-vikings.md
+    - "Build: King Of The Ocean": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-20-king-of-the-ocean.md
+    - "Build: Redcap": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-200-redcap.md
+    - "Build: The Golden Piglin Brute": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-201-the-golden-piglin-brute.md
+    - "Build: The Thief Of Ages": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-202-the-thief-of-ages.md
+    - "Build: Ghost Rider": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-203-ghost-rider.md
+    - "Build: Thunderstorm Mage": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-204-thunderstorm-mage.md
+    - "Build: The Fiery Forger": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-205-the-fiery-forger.md
+    - "Build: The Wrecker": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-207-the-wrecker.md
+    - "Build: The Hellfire Wraith": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-208-the-hellfire-wraith.md
+    - "Build: The Red Devil": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-209-the-red-devil.md
+    - "Build: Ash Williams": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-21-ash-williams.md
+    - "Build: The Prowling Cat": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-210-the-prowling-cat.md
+    - "Build: The Splendid Mage": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-211-the-splendid-mage.md
+    - "Build: The Almighty Zeus": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-212-the-almighty-zeus.md
+    - "Build: The Blood Queen": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-213-the-blood-queen.md
+    - "Build: Aeshma The Demon Of Rage And Chaos": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-214-aeshma-the-demon-of-rage-and-chaos.md
+    - "Build: The Dwarf King And His Army Of Iron Golems": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-215-the-dwarf-king-and-his-army-of-ıron-golems.md
+    - "Build: Savage Orcs": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-216-savage-orcs.md
+    - "Build: Sir Bubbler": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-217-sir-bubbler.md
+    - "Build: Eruption": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-218-eruption.md
+    - "Build: Nightmares Bite": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-219-nightmares-bite.md
+    - "Build: The Crimson Cult And The Eldritch Guardians": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-22-the-crimson-cult-and-the-eldritch-guardians.md
+    - "Build: The Evolved Guardians": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-220-the-evolved-guardians.md
+    - "Build: The Keeper Of The Grave": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-221-the-keeper-of-the-grave.md
+    - "Build: The Darkness": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-222-the-darkness.md
+    - "Build: Ancient Windcaller": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-223-ancient-windcaller.md
+    - "Build: Black Hole Sun": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-224-black-hole-sun.md
+    - "Build: The Evil Eskimo": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-225-the-evil-eskimo.md
+    - "Build: The Elemental Spirit Bear": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-226-the-elemental-spirit-bear.md
+    - "Build: Acidic Monk": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-227-acidic-monk.md
+    - "Build: Toxice": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-228-toxice.md
+    - "Build: The Electrified Tentacled Knights": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-229-the-electrified-tentacled-knights.md
+    - "Build: The Dark Sorcerer": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-23-the-dark-sorcerer.md
+    - "Build: The Judge": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-230-the-judge.md
+    - "Build: The Dark Royal Guard": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-231-the-dark-royal-guard.md
+    - "Build: The Fallen": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-232-the-fallen.md
+    - "Build: The Lost Wither Skeleton": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-233-the-lost-wither-skeleton.md
+    - "Build: The Hulking Shulker": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-234-the-hulking-shulker.md
+    - "Build: Frost Walker": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-235-frost-walker.md
+    - "Build: Dracula": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-236-dracula.md
+    - "Build: Red Riding Hood  Beast Huntress": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-237-red-riding-hood--beast-huntress.md
+    - "Build: The Pumpkin King": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-238-the-pumpkin-king.md
+    - "Build: The Impenetrable Cursed Box": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-239-the-ımpenetrable-cursed-box.md
+    - "Build: Super P.E.K.K.A.": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-24-super-p.e.k.k.a..md
+    - "Build: The Flaming Skull": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-240-the-flaming-skull.md
+    - "Build: Hephaestus   God Of Fire": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-241-hephaestus---god-of-fire.md
+    - "Build: Cerberus": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-242-cerberus.md
+    - "Build: Hades   God Of The Underworld": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-243-hades---god-of-the-underworld.md
+    - "Build: Black Widow": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-244-black-widow.md
+    - "Build: The Splendid Sorcerer": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-245-the-splendid-sorcerer.md
+    - "Build: Tarantula": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-246-tarantula.md
+    - "Build: Llama Mama": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-247-llama-mama.md
+    - "Build: The Levitator": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-248-the-levitator.md
+    - "Build: The Greedy Giant": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-249-the-greedy-giant.md
+    - "Build: Conan": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-25-conan.md
+    - "Build: Spirit Bee": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-250-spirit-bee.md
+    - "Build: Monster Hunter": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-251-monster-hunter.md
+    - "Build: Master Wolf": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-252-master-wolf.md
+    - "Build: Father Of Hell": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-253-father-of-hell.md
+    - "Build: The First Cultist": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-254-the-first-cultist.md
+    - "Build: Teumessian Fox": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-255-teumessian-fox.md
+    - "Build: Little Boy Blue": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-256-little-boy-blue.md
+    - "Build: The King Of Highblock Castle": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-257-the-king-of-highblock-castle.md
+    - "Build: The Renegade": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-258-the-renegade.md
+    - "Build: The Legionnaire Of Bees": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-259-the-legionnaire-of-bees.md
+    - "Build: Skeletor": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-26-skeletor.md
+    - "Build: The Disciple Of Ra": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-260-the-disciple-of-ra.md
+    - "Build: Devils Food Cake": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-261-devils-food-cake.md
+    - "Build: Pecos Bill": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-27-pecos-bill.md
+    - "Build: The Ultimate Wandering Trader": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-28-the-ultimate-wandering-trader.md
+    - "Build: Man Thing": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-29-man-thing.md
+    - "Build: The Sly Fox": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-3-the-sly-fox.md
+    - "Build: Mountain Climber": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-30-mountain-climber.md
+    - "Build: Casper The Not So Friendly Ghost": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-31-casper-the-not-so-friendly-ghost.md
+    - "Build: The Electrocuted Executed Ancient Prisoner": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-32-the-electrocuted-executed-ancient-prisoner.md
+    - "Build: Magical Mushroom Bros.": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-33-magical-mushroom-bros..md
+    - "Build: Ice Necromancer": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-34-ıce-necromancer.md
+    - "Build: Ice Walkers": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-35-ıce-walkers.md
+    - "Build: Marka Ragnos": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-36-marka-ragnos.md
+    - "Build: Mace Windu": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-37-mace-windu.md
+    - "Build: Peter Pan": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-37-peter-pan.md
+    - "Build: The Ninja Turtle": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-38-the-ninja-turtle.md
+    - "Build: The Redstone Man Strosity": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-39-the-redstone-man-strosity.md
+    - "Build: The Phantom": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-4-the-phantom.md
+    - "Build: The Last Knight Of Templar": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-40-the-last-knight-of-templar.md
+    - "Build: Baphomet": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-41-baphomet.md
+    - "Build: Angry Jack Heres Johnny": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-42-angry-jack-heres-johnny.md
+    - "Build: Fungi Man": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-43-fungi-man.md
+    - "Build: The Withered Executioner": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-44-the-withered-executioner.md
+    - "Build: Young Link": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-45-young-link.md
+    - "Build: Polyphemus": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-46-polyphemus.md
+    - "Build: Sir Norton Of The North": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-48-sir-norton-of-the-north.md
+    - "Build: Blossom Fairy": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-49-blossom-fairy.md
+    - "Build: Fast Food King": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-5-fast-food-king.md
+    - "Build: The Mad Sorcerer": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-50-the-mad-sorcerer.md
+    - "Build: Speed Demon": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-51-speed-demon.md
+    - "Build: The Ancient Infernape": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-52-the-ancient-ınfernape.md
+    - "Build: Soul Reaper": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-53-soul-reaper.md
+    - "Build: The Ghostly Janitor Of Highblock Castle": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-54-the-ghostly-janitor-of-highblock-castle.md
+    - "Build: The King Of Old": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-55-the-king-of-old.md
+    - "Build: The Ghost Of Stormbrook Manor": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-56-the-ghost-of-stormbrook-manor.md
+    - "Build: Helios   The Sun Titan": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-57-helios---the-sun-titan.md
+    - "Build: Blue Fairy": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-58-blue-fairy.md
+    - "Build: Horned Huntsman": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-59-horned-huntsman.md
+    - "Build: The Eskimos": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-6-the-eskimos.md
+    - "Build: Master Fox": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-60-master-fox.md
+    - "Build: The Glorious Adventurer": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-61-the-glorious-adventurer.md
+    - "Build: Durins Bane The Balrog": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-62-durins-bane-the-balrog.md
+    - "Build: The Mischievous And Volatile Goblin Of Destruction": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-63-the-mischievous-and-volatile-goblin-of-destruction.md
+    - "Build: The Blizzard Wizard": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-64-the-blizzard-wizard.md
+    - "Build: Snow Tundra Striker": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-65-snow-tundra-striker.md
+    - "Build: The Shrouded Ghost": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-66-the-shrouded-ghost.md
+    - "Build: Undead Army": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-67-undead-army.md
+    - "Build: The Scarecrows Revenge": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-68-the-scarecrows-revenge.md
+    - "Build: Dark Elves": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-69-dark-elves.md
+    - "Build: The Purple Samurai": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-7-the-purple-samurai.md
+    - "Build: Harbinger Of Toxic Fire": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-70-harbinger-of-toxic-fire.md
+    - "Build: Hobgoblin": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-71-hobgoblin.md
+    - "Build: Turtles Of Protection": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-72-turtles-of-protection.md
+    - "Build: Veznan": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-74-veznan.md
+    - "Build: Amadeus  Watcher Of The Night ": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-75-amadeus--watcher-of-the-night-.md
+    - "Build: Celestial Of The Cosmos": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-76-celestial-of-the-cosmos.md
+    - "Build: The Ranger": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-77-the-ranger.md
+    - "Build: Gavin The Great": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-78-gavin-the-great.md
+    - "Build: The Elf On The Shelf": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-79-the-elf-on-the-shelf.md
+    - "Build: Kitsune White Fox": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-8-kitsune-white-fox.md
+    - "Build: Soul Shroom": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-80-soul-shroom.md
+    - "Build: Ganondorf": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-81-ganondorf.md
+    - "Build: The Twisted Ninja": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-82-the-twisted-ninja.md
+    - "Build: The Dark Prince Of Acaroth": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-83-the-dark-prince-of-acaroth.md
+    - "Build: Death The Wolf": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-84-death-the-wolf.md
+    - "Build: Death Stalker": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-85-death-stalker.md
+    - "Build: The Ice Titan": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-86-the-ıce-titan.md
+    - "Build: Forest Mage": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-87-forest-mage.md
+    - "Build: The Corrupted Guard": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-88-the-corrupted-guard.md
+    - "Build: Berserker": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-89-berserker.md
+    - "Build: Treetop Tangle Power Rangers": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-9-treetop-tangle-power-rangers.md
+    - "Build: The Soul Crusher": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-90-the-soul-crusher.md
+    - "Build: Volcanic Tortoise": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-91-volcanic-tortoise.md
+    - "Build: Vampire Slayer": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-92-vampire-slayer.md
+    - "Build: Captain Tentacles": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-93-captain-tentacles.md
+    - "Build: The Radiant Guardian": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-94-the-radiant-guardian.md
+    - "Build: Ultraviolet": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-95-ultraviolet.md
+    - "Build: Ninja Archer": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-96-ninja-archer.md
+    - "Build: Noob Saibot": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-97-noob-saibot.md
+    - "Build: The Dark Knights Of Veznans Army": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-98-the-dark-knights-of-veznans-army.md
+    - "Build: Orc Shaman": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-99-orc-shaman.md
+    - "Build: Halloween Stings Build": grimreaper/C:\Users\Gaming\PycharmProjects\dungeons-guide-v1\docs\grimreaper\grimreaper-halloween-stings-build.md
