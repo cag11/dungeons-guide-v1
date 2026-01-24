@@ -16,27 +16,27 @@ This comprehensive guide covers everything you need to know about Spear in Minec
 
 **Recommended Enchantments:**
 
-1. ![Shockwave](../assets/enhancements/Shockwave.webp){ width="32" } **Shockwave** + ![Refreshment](../assets/enhancements/Refreshment_Melee_(MCD_Enchantment).webp){ width="32" } **Refreshment** + ![Critical Hit](../assets/enhancements/Critical_Hit.webp){ width="32" } **Critical Hit** + ![Rushdown](../assets/enhancements/Rushdown.webp){ width="32" } **Rushdown**
+![Gravity](../assets/enhancements/Gravity.webp){ width="32" } + ![Voidstrike](../assets/enhancements/Void_Strike.webp){ width="32" } + ![Unchanting](../assets/enhancements/Unchanting.webp){ width="32" } + ![Guarding Strike](../assets/enhancements/Guarding_Strike_(MCD_Enchantment).webp){ width="32" }
 
-2. ![Shockwave](../assets/enhancements/Shockwave.webp){ width="32" } **Shockwave** + ![Refreshment](../assets/enhancements/Refreshment_Melee_(MCD_Enchantment).webp){ width="32" } **Refreshment** + ![Critical Hit](../assets/enhancements/Critical_Hit.webp){ width="32" } **Critical Hit** + ![Poison Cloud](../assets/enhancements/Poison_Cloud.webp){ width="32" } **Poison Cloud**
+![Gravity](../assets/enhancements/Gravity.webp){ width="32" } + ![Voidstrike](../assets/enhancements/Void_Strike.webp){ width="32" } + ![Unchanting](../assets/enhancements/Unchanting.webp){ width="32" } + ![Critical Hit](../assets/enhancements/Critical_Hit.webp){ width="32" }
 
-3. ![Shockwave](../assets/enhancements/Shockwave.webp){ width="32" } **Shockwave** + ![Refreshment](../assets/enhancements/Refreshment_Melee_(MCD_Enchantment).webp){ width="32" } **Refreshment** + ![Critical Hit](../assets/enhancements/Critical_Hit.webp){ width="32" } **Critical Hit** + ![Fire Aspect](../assets/enhancements/Fire_Aspect.webp){ width="32" } **Fire Aspect**
+![Gravity](../assets/enhancements/Gravity.webp){ width="32" } + ![Voidstrike](../assets/enhancements/Void_Strike.webp){ width="32" } + ![Unchanting](../assets/enhancements/Unchanting.webp){ width="32" } + ![Committed](../assets/enhancements/Committed.webp){ width="32" }
 
-4. ![Shockwave](../assets/enhancements/Shockwave.webp){ width="32" } **Shockwave** + ![Refreshment](../assets/enhancements/Refreshment_Melee_(MCD_Enchantment).webp){ width="32" } **Refreshment** + ![Critical Hit](../assets/enhancements/Critical_Hit.webp){ width="32" } **Critical Hit** + ![Leeching](../assets/enhancements/Leeching.webp){ width="32" } **Leeching**
+![Gravity](../assets/enhancements/Gravity.webp){ width="32" } + ![Voidstrike](../assets/enhancements/Void_Strike.webp){ width="32" } + ![Unchanting](../assets/enhancements/Unchanting.webp){ width="32" } + ![Leeching](../assets/enhancements/Leeching.webp){ width="32" }
 
 ### Before Apoc+
 
 **Starting Enchantments:**
 
-1. ![Shockwave](../assets/enhancements/Shockwave.webp){ width="32" } **Shockwave** + ![Refreshment](../assets/enhancements/Refreshment_Melee_(MCD_Enchantment).webp){ width="32" } **Refreshment** + ![Poison Cloud](../assets/enhancements/Poison_Cloud.webp){ width="32" } **Poison Cloud** + ![Rushdown](../assets/enhancements/Rushdown.webp){ width="32" } **Rushdown**
+![Gravity](../assets/enhancements/Gravity.webp){ width="32" } + ![Voidstrike](../assets/enhancements/Void_Strike.webp){ width="32" } + ![Critical Hit](../assets/enhancements/Critical_Hit.webp){ width="32" } + ![Committed](../assets/enhancements/Committed.webp){ width="32" }
 
-2. ![Shockwave](../assets/enhancements/Shockwave.webp){ width="32" } **Shockwave** + ![Refreshment](../assets/enhancements/Refreshment_Melee_(MCD_Enchantment).webp){ width="32" } **Refreshment** + ![Poison Cloud](../assets/enhancements/Poison_Cloud.webp){ width="32" } **Poison Cloud** + ![Rushdown](../assets/enhancements/Rushdown.webp){ width="32" } **Rushdown**
+![Gravity](../assets/enhancements/Gravity.webp){ width="32" } + ![Voidstrike](../assets/enhancements/Void_Strike.webp){ width="32" } + ![Critical Hit](../assets/enhancements/Critical_Hit.webp){ width="32" } + ![Guarding Strike](../assets/enhancements/Guarding_Strike_(MCD_Enchantment).webp){ width="32" }
 
-3. ![Shockwave](../assets/enhancements/Shockwave.webp){ width="32" } **Shockwave** + ![Refreshment](../assets/enhancements/Refreshment_Melee_(MCD_Enchantment).webp){ width="32" } **Refreshment** + ![Poison Cloud](../assets/enhancements/Poison_Cloud.webp){ width="32" } **Poison Cloud** + ![Rushdown](../assets/enhancements/Rushdown.webp){ width="32" } **Rushdown**
+![Gravity](../assets/enhancements/Gravity.webp){ width="32" } + ![Voidstrike](../assets/enhancements/Void_Strike.webp){ width="32" } + ![Committed](../assets/enhancements/Committed.webp){ width="32" } + ![Guarding Strike](../assets/enhancements/Guarding_Strike_(MCD_Enchantment).webp){ width="32" }
 
-4. ![Shockwave](../assets/enhancements/Shockwave.webp){ width="32" } **Shockwave** + ![Refreshment](../assets/enhancements/Refreshment_Melee_(MCD_Enchantment).webp){ width="32" } **Refreshment** + ![Poison Cloud](../assets/enhancements/Poison_Cloud.webp){ width="32" } **Poison Cloud** + ![Fire Aspect](../assets/enhancements/Fire_Aspect.webp){ width="32" } **Fire Aspect**
+![Gravity](../assets/enhancements/Gravity.webp){ width="32" } + ![Voidstrike](../assets/enhancements/Void_Strike.webp){ width="32" } + ![Critical Hit](../assets/enhancements/Critical_Hit.webp){ width="32" } + ![Leeching](../assets/enhancements/Leeching.webp){ width="32" }
 
-5. ![Shockwave](../assets/enhancements/Shockwave.webp){ width="32" } **Shockwave** + ![Refreshment](../assets/enhancements/Refreshment_Melee_(MCD_Enchantment).webp){ width="32" } **Refreshment** + ![Poison Cloud](../assets/enhancements/Poison_Cloud.webp){ width="32" } **Poison Cloud** + ![Leeching](../assets/enhancements/Leeching.webp){ width="32" } **Leeching**
+![Gravity](../assets/enhancements/Gravity.webp){ width="32" } + ![Voidstrike](../assets/enhancements/Void_Strike.webp){ width="32" } + ![Committed](../assets/enhancements/Committed.webp){ width="32" } +  ![Leeching](../assets/enhancements/Leeching.webp){ width="32" }
 
 ---
 
