@@ -136,6 +136,14 @@
       <p class="guide-card-desc">Complete analysis of Pain Cycle enchantment mechanics and optimal usage strategies.</p>
     </div>
   </a>
+
+  <a href="pancake-hits-per-second-chart/" class="guide-card-link">
+    <div class="guide-card">
+      <div class="guide-card-icon">⚡</div>
+      <h3 class="guide-card-title">Hits Per Second Chart</h3>
+      <p class="guide-card-desc">Comprehensive weapon attack speed data with interactive spreadsheet access.</p>
+    </div>
+  </a>
 </div>
 
 ---
