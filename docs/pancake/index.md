@@ -12,8 +12,16 @@
   <a href="pancake-spear-guide/" class="guide-card-link">
     <div class="guide-card">
       <div class="guide-card-icon">🔱</div>
-      <h3 class="guide-card-title">Spear Info Chart</h3>
-      <p class="guide-card-desc">Comprehensive guide covering everything about Spear including god rolls, stats, damage calculations, and strategic usage.</p>
+      <h3 class="guide-card-title">Spear Guide Part I</h3>
+      <p class="guide-card-desc">Comprehensive guide covering god rolls, best enchantments, damage calculations, and strategic playstyle for Spears.</p>
+    </div>
+  </a>
+
+  <a href="pancake-spear-guide-part-2/" class="guide-card-link">
+    <div class="guide-card">
+      <div class="guide-card-icon">🔱</div>
+      <h3 class="guide-card-title">Spear Guide Part II</h3>
+      <p class="guide-card-desc">Visual guide with detailed spear information chart and enchantment combinations.</p>
     </div>
   </a>
 </div>
