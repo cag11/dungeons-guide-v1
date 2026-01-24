@@ -14,7 +14,10 @@ hero_buttons:
 <section class="landing-section landing-section--intro">
   <div class="landing-section__inner">
     <h2>Welcome to DungeonsHub</h2>
-    <p class="landing-section__lead">Your central hub for Minecraft Dungeons mastery. From beginner basics to advanced strategies, discover comprehensive guides created by the community's best players. Whether you're just starting out or pushing for Apocalypse+ clears, we've got you covered.</p>
+    <p class="landing-section__lead">Your central hub for Minecraft Dungeons mastery. From beginner basics to advanced strategies, discover comprehensive guides created by the community's best players.</p>
+    <p class="landing-section__subtitle" style="font-size: 1.3em; margin-top: 1.5rem; color: #e0e0e0;">
+      Featuring <span style="color: #ffb300; font-weight: 700; font-size: 1.2em;">140 expert guides</span> crafted by <span style="color: #b794f6; font-weight: 700; font-size: 1.2em;">6 amazing contributors</span>
+    </p>
   </div>
 </section>
 
@@ -60,7 +63,7 @@ hero_buttons:
         <div class="guide-card">
           <img src="assets/people/shin.webp" alt="Shin" class="guide-card-avatar">
           <h3 class="guide-card-title">Shin's Guides</h3>
-          <p class="guide-card-desc">In-depth mechanical breakdowns and system analysis. Learn why builds work, not just what works—bridging the gap from follower to strategist.</p>
+          <p class="guide-card-desc">Massive collection: 108 guides covering mechanics, all 53 melee weapons, and all 35 armor sets. Complete system analysis with data-driven insights.</p>
         </div>
       </a>
 

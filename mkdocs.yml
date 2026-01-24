@@ -89,6 +89,94 @@ nav:
     - Rapier Guide: shins/shin-rapier-guide.md
     - Backstabber Guide: shins/shin-backstabber-guide.md
     - Double Axe Guide: shins/shin-double-axe-guide.md
+    - "Melee: Double Axe Cursed Axe and Whirlwind": shins/shin-melee-1_double_axe_cursed_axe_and_whirlwind.md
+    - "Melee: The Starless Night": shins/shin-melee-2_the_starless_night.md
+    - "Melee: Obsidian Claymore": shins/shin-melee-3_obsidian_claymore.md
+    - "Melee: Encrusted Anchor": shins/shin-melee-4_encrusted_anchor.md
+    - "Melee: Anchor": shins/shin-melee-5_anchor.md
+    - "Melee: Fighters Bindings": shins/shin-melee-6_fighters_bindings.md
+    - "Melee: Masters Katana": shins/shin-melee-7_masters_katana.md
+    - "Melee: Nameless Blade": shins/shin-melee-8_nameless_blade.md
+    - "Melee: Bee Stinger": shins/shin-melee-9_bee_stinger.md
+    - "Melee: Whispering Spear": shins/shin-melee-10_whispering_spear.md
+    - "Melee: Growing Staff": shins/shin-melee-11_growing_staff.md
+    - "Melee: Mechanized Sawblade": shins/shin-melee-12_mechanized_sawblade.md
+    - "Melee: Cutlass": shins/shin-melee-13_cutlass.md
+    - "Melee: Freezing Foil": shins/shin-melee-14_freezing_foil.md
+    - "Melee: Rapier": shins/shin-melee-15_rapier.md
+    - "Melee: Spear and Fortune Spear": shins/shin-melee-16_spear_and_fortune_spear.md
+    - "Melee: Boneclub and Bone Cudgel": shins/shin-melee-17_boneclub_and_bone_cudgel.md
+    - "Melee: Battlestaff of Terror": shins/shin-melee-18_battlestaff_of_terror.md
+    - "Melee: Battlestaff": shins/shin-melee-19_battlestaff.md
+    - "Melee: Vine Whip": shins/shin-melee-20_vine_whip.md
+    - "Melee: The Beginning and the End": shins/shin-melee-21_the_beginning_and_the_end.md
+    - "Melee: Void Touched Blades": shins/shin-melee-22_void_touched_blades.md
+    - "Melee: Katana and Dark Katana": shins/shin-melee-23_katana_and_dark_katana.md
+    - "Melee: Truthseeker": shins/shin-melee-24_truthseeker.md
+    - "Melee: Pickaxe and Diamond Pickaxe": shins/shin-melee-25_pickaxe_and_diamond_pickaxe.md
+    - "Melee: Moon Daggers": shins/shin-melee-26_moon_daggers.md
+    - "Melee: Mace Flail and Suns Grace": shins/shin-melee-27_mace_flail_and_suns_grace.md
+    - "Melee: Swift Striker": shins/shin-melee-28_swift_striker.md
+    - "Melee: Backstabber": shins/shin-melee-29_backstabber.md
+    - "Melee: Broken Sawblade": shins/shin-melee-30_broken_sawblade.md
+    - "Melee: Soul Scythe Frost Scythe Skull Scythe and Jailors Scythe": shins/shin-melee-31_soul_scythe_frost_scythe_skull_scythe_and_jailors_scythe.md
+    - "Melee: Glaive Venom Glaive Grave Bane and Cackling Broom": shins/shin-melee-32_glaive_venom_glaive_grave_bane_and_cackling_broom.md
+    - "Melee: Heartstealer": shins/shin-melee-33_heartstealer.md
+    - "Melee: Broadsword and Frost Slayer": shins/shin-melee-34_broadsword_and_frost_slayer.md
+    - "Melee: Claymore and Great Axeblade": shins/shin-melee-35_claymore_and_great_axeblade.md
+    - "Melee: Resolute Tempest Knife": shins/shin-melee-36_resolute_tempest_knife.md
+    - "Melee: Hammer of Gravity and Bonehead Hammer": shins/shin-melee-37_hammer_of_gravity_and_bonehead_hammer.md
+    - "Melee: Eternal Knife": shins/shin-melee-38_eternal_knife.md
+    - "Melee: Soul Knife": shins/shin-melee-39_soul_knife.md
+    - "Melee: Hawkbrand and Sinister Sword": shins/shin-melee-40_hawkbrand_and_sinister_sword.md
+    - "Melee: Tempest Knife and Chill Gale Knife": shins/shin-melee-41_tempest_knife_and_chill_gale_knife.md
+    - "Melee: Axe Highland Axe and Firebrand": shins/shin-melee-42_axe_highland_axe_and_firebrand.md
+    - "Melee: Diamond Sword": shins/shin-melee-43_diamond_sword.md
+    - "Melee: Sword": shins/shin-melee-44_sword.md
+    - "Melee: Soul Fists": shins/shin-melee-45_soul_fists.md
+    - "Melee: Great Hammer and Stormlander": shins/shin-melee-46_great_hammer_and_stormlander.md
+    - "Melee: Daggers Sheer Daggers and Fangs of Frost": shins/shin-melee-47_daggers_sheer_daggers_and_fangs_of_frost.md
+    - "Melee: Dancers Sword and Sparkler": shins/shin-melee-48_dancers_sword_and_sparkler.md
+    - "Melee: Sickles The Last Laugh and Nightmares Bite": shins/shin-melee-49_sickles_the_last_laugh_and_nightmares_bite.md
+    - "Melee: Whip": shins/shin-melee-50_whip.md
+    - "Melee: Gauntlets and Maulers": shins/shin-melee-51_gauntlets_and_maulers.md
+    - "Melee: Sponge Striker": shins/shin-melee-52_sponge_striker.md
+    - "Melee: Coral Blade": shins/shin-melee-53_coral_blade.md
+    - "Armor: Wither Armor and The Spooky Gourdian": shins/shin-armor-1_wither_armor_and_the_spooky_gourdian_2.md
+    - "Armor: Mystery Armor": shins/shin-armor-2_mystery_armor.md
+    - "Armor: Renegade Armor Hungry Horror and Hungriest Horror": shins/shin-armor-3_renegade_armor_hungry_horror_and_hungriest_horror.md
+    - "Armor: Full Metal Armor and Cauldron Armor": shins/shin-armor-4_full_metal_armor_and_cauldron_armor.md
+    - "Armor: Stalwart Armor": shins/shin-armor-5_stalwart_armor.md
+    - "Armor: Heros Armor": shins/shin-armor-6_heros_armor.md
+    - "Armor: Splendid Robe": shins/shin-armor-7_splendid_robe.md
+    - "Armor: Spider Armor": shins/shin-armor-8_spider_armor.md
+    - "Armor: Highland Armor": shins/shin-armor-9_highland_armor.md
+    - "Armor: Glow Squid Armor": shins/shin-armor-10_glow_squid_armor.md
+    - "Armor: Shadow Walker": shins/shin-armor-11_shadow_walker.md
+    - "Armor: Sturdy Shulker Armor": shins/shin-armor-12_sturdy_shulker_armor.md
+    - "Armor: Verdant Robe": shins/shin-armor-13_verdant_robe.md
+    - "Armor: Ember Robe": shins/shin-armor-14_ember_robe.md
+    - "Armor: Nimble Turtle Armor": shins/shin-armor-15_nimble_turtle_armor.md
+    - "Armor: Black Spot Armor": shins/shin-armor-16_black_spot_armor.md
+    - "Armor: Golden Piglin Armor": shins/shin-armor-17_golden_piglin_armor.md
+    - "Armor: Souldancer Robe": shins/shin-armor-18_souldancer_robe.md
+    - "Armor: Archers Armor": shins/shin-armor-19_archers_armor.md
+    - "Armor: Beehive Armor": shins/shin-armor-20_beehive_armor.md
+    - "Armor: Frost Armor": shins/shin-armor-21_frost_armor.md
+    - "Armor: Opulent Armor": shins/shin-armor-22_opulent_armor.md
+    - "Armor: Gilded Glory": shins/shin-armor-23_gilded_glory.md
+    - "Armor: Rugged Climbing Gear": shins/shin-armor-24_rugged_climbing_gear.md
+    - "Armor: Goat Gear": shins/shin-armor-25_goat_gear.md
+    - "Armor: Living Vines Armor": shins/shin-armor-26_living_vines_armor.md
+    - "Armor: Titans Shroud": shins/shin-armor-27_titans_shroud.md
+    - "Armor: The Troubadour": shins/shin-armor-28_the_troubadour.md
+    - "Armor: Guards Armor": shins/shin-armor-29_guards_armor.md
+    - "Armor: Fox Armor and Arctic Fox Armor": shins/shin-armor-30_fox_armor_and_arctic_fox_armor.md
+    - "Armor: Frost Bite": shins/shin-armor-31_frost_bite.md
+    - "Armor: Ghost Kindler and Cloaked Skull": shins/shin-armor-32_ghost_kindler_and_cloaked_skull.md
+    - "Armor: Black Wolf Armor": shins/shin-armor-33_black_wolf_armor.md
+    - "Armor: Unstable Robes": shins/shin-armor-34_unstable_robes.md
+    - "Armor: Cave Crawler and Sweet Tooth": shins/shin-armor-35_cave_crawler_and_sweet_tooth.md
   - Reddit Guides:
     - reddit/index.md
     - Ancient Hunts: reddit/reddit-ancient-hunts.md
