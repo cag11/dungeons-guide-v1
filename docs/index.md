@@ -1,146 +1,194 @@
-<div class="hero-section">
-  <div style="display: flex; align-items: center; justify-content: center; gap: 30px; flex-wrap: wrap;">
-    <img src="assets/images/logo.webp" alt="Minecraft Dungeons Logo" style="width: 120px; height: 120px; border-radius: 12px; border: 3px solid #ffb300; box-shadow: 0 8px 30px rgba(255, 179, 0, 0.4);">
-    <h1 class="hero-title" style="margin: 0;">⚔️ Minecraft Dungeons Guides ⚔️</h1>
+---
+template: home.html
+title: ⚔️ Minecraft Dungeons Guides ⚔️
+hero_description: Your Ultimate Resource for Mastering the Dungeons
+hero_buttons:
+  - text: Get Started
+    link: agenciak/
+    class: md-button md-button--primary
+  - text: View All Guides
+    link: "#guide-creators"
+    class: md-button
+---
+
+<section class="landing-section landing-section--intro">
+  <div class="landing-section__inner">
+    <h2>Everything You Need to Master Minecraft Dungeons</h2>
+    <p class="landing-section__lead">From beginner basics to advanced strategies, discover comprehensive guides created by the community's best players. Whether you're just starting out or pushing for Apocalypse+ clears, we've got you covered.</p>
   </div>
-  <p class="hero-subtitle">Your Ultimate Resource for Mastering the Dungeons</p>
-</div>
+</section>
 
-<div class="guide-cards">
-  <a href="agenciak/" class="guide-card-link">
-    <div class="guide-card">
-      <img src="assets/people/agenciak.webp" alt="Agenciak" class="guide-card-avatar">
-      <h2 class="guide-card-title">Agenciak's Guides</h2>
-      <p class="guide-card-desc">Comprehensive beginner-friendly guides covering melee combat, rolling mechanics, and powerful builds.</p>
+<section class="landing-section landing-section--creators" id="guide-creators">
+  <div class="landing-section__inner">
+    <h2>🎮 Guide Creators</h2>
+    <p class="landing-section__subtitle">Learn from the experts who've mastered every aspect of the game</p>
+    
+    <div class="guide-cards">
+      <a href="agenciak/" class="guide-card-link">
+        <div class="guide-card">
+          <img src="assets/people/agenciak.webp" alt="Agenciak" class="guide-card-avatar">
+          <h3 class="guide-card-title">Agenciak's Guides</h3>
+          <p class="guide-card-desc">Comprehensive beginner-friendly guides covering melee combat, rolling mechanics, and powerful builds.</p>
+        </div>
+      </a>
+
+      <a href="bustercat/" class="guide-card-link">
+        <div class="guide-card">
+          <img src="assets/people/bustercat.webp" alt="BusterCat" class="guide-card-avatar">
+          <h3 class="guide-card-title">BusterCat's Guides</h3>
+          <p class="guide-card-desc">Expert strategies and powerful builds to maximize your efficiency and dominate the dungeons.</p>
+        </div>
+      </a>
+
+      <a href="grimreaper/" class="guide-card-link">
+        <div class="guide-card">
+          <img src="assets/people/grimreaper.webp" alt="GrimReaper" class="guide-card-avatar">
+          <h3 class="guide-card-title">GrimReaper's Guides</h3>
+          <p class="guide-card-desc">Dark arts and mysterious strategies to conquer your enemies with devastating power.</p>
+        </div>
+      </a>
+
+      <a href="pancake/" class="guide-card-link">
+        <div class="guide-card">
+          <img src="assets/people/pancake.webp" alt="Pancake" class="guide-card-avatar">
+          <h3 class="guide-card-title">Pancake's Guides</h3>
+          <p class="guide-card-desc">Creative builds and unique strategies offering fresh perspectives and innovative solutions.</p>
+        </div>
+      </a>
+
+      <a href="shins/" class="guide-card-link">
+        <div class="guide-card">
+          <img src="assets/people/shin.webp" alt="Shin" class="guide-card-avatar">
+          <h3 class="guide-card-title">Shin's Guides</h3>
+          <p class="guide-card-desc">Expert strategies and advanced techniques from Shin. Master the hardest content in the game.</p>
+        </div>
+      </a>
+
+      <a href="reddit/" class="guide-card-link">
+        <div class="guide-card">
+          <div class="guide-card-icon">💬</div>
+          <h3 class="guide-card-title">Reddit Guides</h3>
+          <p class="guide-card-desc">Community-curated guides from the Minecraft Dungeons subreddit. Learn from the best players.</p>
+        </div>
+      </a>
+
+      <a href="other/" class="guide-card-link">
+        <div class="guide-card">
+          <div class="guide-card-icon">🔗</div>
+          <h3 class="guide-card-title">Other Sources</h3>
+          <p class="guide-card-desc">Additional resources, tools, and guides from around the web. Calculators, wikis, and more!</p>
+        </div>
+      </a>
     </div>
-  </a>
+  </div>
+</section>
 
-  <a href="bustercat/" class="guide-card-link">
-    <div class="guide-card">
-      <img src="assets/people/bustercat.webp" alt="BusterCat" class="guide-card-avatar">
-      <h2 class="guide-card-title">BusterCat's Guides</h2>
-      <p class="guide-card-desc">Expert strategies and powerful builds to maximize your efficiency and dominate the dungeons.</p>
+<section class="landing-section landing-section--features">
+  <div class="landing-section__inner">
+    <h2>✨ What You'll Find Here</h2>
+    <p class="landing-section__subtitle">Comprehensive resources to elevate your gameplay</p>
+    
+    <div class="feature-grid">
+      <div class="feature-item">
+        <div class="feature-icon">⚔️</div>
+        <h3>Combat Strategies</h3>
+        <p>Master melee and ranged combat techniques with detailed breakdowns and practical tips</p>
+      </div>
+
+      <div class="feature-item">
+        <div class="feature-icon">🎯</div>
+        <h3>Build Optimization</h3>
+        <p>Create powerful synergistic builds that maximize damage and survivability</p>
+      </div>
+
+      <div class="feature-item">
+        <div class="feature-icon">📊</div>
+        <h3>Tier Lists</h3>
+        <p>Best weapons, armor, and artifacts ranked by performance and utility</p>
+      </div>
+
+      <div class="feature-item">
+        <div class="feature-icon">🗺️</div>
+        <h3>Level Walkthroughs</h3>
+        <p>Complete guides for every level with secrets, strategies, and boss tactics</p>
+      </div>
+
+      <div class="feature-item">
+        <div class="feature-icon">💎</div>
+        <h3>Enchantment Guides</h3>
+        <p>Optimize your enchantment choices for maximum effectiveness</p>
+      </div>
+
+      <div class="feature-item">
+        <div class="feature-icon">🏆</div>
+        <h3>Endgame Content</h3>
+        <p>Conquer Apocalypse+ difficulty with proven strategies and builds</p>
+      </div>
     </div>
-  </a>
+  </div>
+</section>
 
-  <a href="grimreaper/" class="guide-card-link">
-    <div class="guide-card">
-      <img src="assets/people/grimreaper.webp" alt="GrimReaper" class="guide-card-avatar">
-      <h2 class="guide-card-title">GrimReaper's Guides</h2>
-      <p class="guide-card-desc">Dark arts and mysterious strategies to conquer your enemies with devastating power.</p>
+<section class="landing-section landing-section--quickstart">
+  <div class="landing-section__inner">
+    <h2>🚀 Quick Start Guide</h2>
+    <p class="landing-section__subtitle">Not sure where to begin? We'll point you in the right direction</p>
+    
+    <div class="quickstart-grid">
+      <div class="quickstart-item">
+        <h3>🌱 New Players</h3>
+        <p>Start with <a href="agenciak/">Agenciak's Guides</a> for beginner-friendly content covering the fundamentals of combat and builds.</p>
+      </div>
+
+      <div class="quickstart-item">
+        <h3>🎨 Creative Strategists</h3>
+        <p>Check out <a href="bustercat/">BusterCat's</a> or <a href="pancake/">Pancake's Guides</a> for unique and innovative approaches to the game.</p>
+      </div>
+
+      <div class="quickstart-item">
+        <h3>💪 Endgame Players</h3>
+        <p>Explore <a href="shins/">Shin's Guides</a> for expert-level tactics and strategies for the hardest content.</p>
+      </div>
+
+      <div class="quickstart-item">
+        <h3>⚡ Power Builds</h3>
+        <p><a href="grimreaper/">GrimReaper's Guides</a> feature devastating builds focused on soul power and dark arts.</p>
+      </div>
     </div>
-  </a>
+  </div>
+</section>
 
-  <a href="pancake/" class="guide-card-link">
-    <div class="guide-card">
-      <img src="assets/people/pancake.webp" alt="Pancake" class="guide-card-avatar">
-      <h2 class="guide-card-title">Pancake's Guides</h2>
-      <p class="guide-card-desc">Creative builds and unique strategies offering fresh perspectives and innovative solutions.</p>
+<section class="landing-section landing-section--featured">
+  <div class="landing-section__inner">
+    <h2>🔥 Featured Guides</h2>
+    <p class="landing-section__subtitle">Popular guides to get you started</p>
+    
+    <div class="featured-guides">
+      <div class="featured-guide">
+        <div class="featured-guide__icon">⚔️</div>
+        <h3><a href="agenciak/agenciak-melee-guide/">Melee Combat Guide</a></h3>
+        <p>Learn weapon types, enchantment synergies, and combat strategies for beginners.</p>
+      </div>
+
+      <div class="featured-guide">
+        <div class="featured-guide__icon">💨</div>
+        <h3><a href="agenciak/agenciak-rolling-guide/">Rolling Mechanics Guide</a></h3>
+        <p>Master the art of constant rolling with Burstbowstring and Cooldown Shot. Understanding i-frames and defensive tactics.</p>
+      </div>
+
+      <div class="featured-guide">
+        <div class="featured-guide__icon">🎃</div>
+        <h3><a href="grimreaper/grimreaper-halloween-stings-build/">Halloween Stings Build</a></h3>
+        <p>A dark Halloween-themed build featuring soul-based powers and devastating attacks.</p>
+      </div>
     </div>
-  </a>
+  </div>
+</section>
 
-  <a href="shins/" class="guide-card-link">
-    <div class="guide-card">
-      <img src="assets/people/shin.webp" alt="Shin" class="guide-card-avatar">
-      <h2 class="guide-card-title">Shin's Guides</h2>
-      <p class="guide-card-desc">Expert strategies and advanced techniques from Shin. Master the hardest content in the game.</p>
-    </div>
-  </a>
-
-  <a href="reddit/" class="guide-card-link">
-    <div class="guide-card">
-      <div class="guide-card-icon">💬</div>
-      <h2 class="guide-card-title">Reddit Guides</h2>
-      <p class="guide-card-desc">Community-curated guides from the Minecraft Dungeons subreddit. Learn from the best players.</p>
-    </div>
-  </a>
-
-  <a href="other/" class="guide-card-link">
-    <div class="guide-card">
-      <div class="guide-card-icon">🔗</div>
-      <h2 class="guide-card-title">Other Sources</h2>
-      <p class="guide-card-desc">Additional resources, tools, and guides from around the web. Calculators, wikis, and more!</p>
-    </div>
-  </a>
-</div>
-
----
-
-## 🎮 Quick Start
-
-<div class="build-section">
-
-<p><strong>New to Minecraft Dungeons?</strong> Start with <strong><a href="agenciak/">Agenciak's Guides</a></strong> for beginner-friendly content!</p>
-
-<p>Looking for creative strategies? Check out <strong><a href="bustercat/">BusterCat's</a></strong> or <strong><a href="pancake/">Pancake's Guides</a></strong> for unique approaches.</p>
-
-<p>Want endgame strategies? Explore <strong><a href="shins/">Shin's Guides</a></strong> for expert-level tactics.</p>
-
-<p>Need devastating power? <strong><a href="grimreaper/">GrimReaper's Guides</a></strong> have you covered with dark arts builds.</p>
-
-</div>
-
----
-
-## ✨ What You'll Find Here
-
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; margin: 30px 0;">
-
-<div style="text-align: center; padding: 20px;">
-  <div style="font-size: 3em; margin-bottom: 10px;">⚔️</div>
-  <h3 style="color: #b794f6;">Combat Strategies</h3>
-  <p>Master melee and ranged combat techniques</p>
-</div>
-
-<div style="text-align: center; padding: 20px;">
-  <div style="font-size: 3em; margin-bottom: 10px;">🎯</div>
-  <h3 style="color: #b794f6;">Build Optimization</h3>
-  <p>Create powerful synergistic builds</p>
-</div>
-
-<div style="text-align: center; padding: 20px;">
-  <div style="font-size: 3em; margin-bottom: 10px;">📊</div>
-  <h3 style="color: #b794f6;">Tier Lists</h3>
-  <p>Best weapons, armor, and artifacts ranked</p>
-</div>
-
-<div style="text-align: center; padding: 20px;">
-  <div style="font-size: 3em; margin-bottom: 10px;">🗺️</div>
-  <h3 style="color: #b794f6;">Level Walkthroughs</h3>
-  <p>Complete guides for every level</p>
-</div>
-
-<div style="text-align: center; padding: 20px;">
-  <div style="font-size: 3em; margin-bottom: 10px;">💎</div>
-  <h3 style="color: #b794f6;">Enchantment Guides</h3>
-  <p>Optimize your enchantment choices</p>
-</div>
-
-<div style="text-align: center; padding: 20px;">
-  <div style="font-size: 3em; margin-bottom: 10px;">🏆</div>
-  <h3 style="color: #b794f6;">Endgame Content</h3>
-  <p>Conquer Apocalypse+ difficulty</p>
-</div>
-
-</div>
-
----
-
-## 🔥 Featured Guides
-
-### ⚔️ [Melee Combat Guide](agenciak/agenciak-melee-guide.md)
-Learn weapon types, enchantment synergies, and combat strategies for beginners.
-
-### 💨 [Rolling Mechanics Guide](agenciak/agenciak-rolling-guide.md)
-Master the art of constant rolling with Burstbowstring and Cooldown Shot. Understanding i-frames, defensive tactics, and advanced rolling techniques.
-
-### 🎃 [Halloween Stings Build](grimreaper/grimreaper-halloween-stings-build.md)
-A dark Halloween-themed build by GrimReaper featuring soul-based powers and devastating attacks.
-
----
-
-<div style="text-align: center; margin: 60px 0 40px 0; padding: 40px; background: linear-gradient(135deg, rgba(45, 16, 85, 0.5) 0%, rgba(26, 0, 51, 0.5) 100%); border-radius: 12px; border: 2px solid #6a3d9a;">
-  <h2 style="color: #ffb300; font-size: 2em; margin: 0;">Ready to Begin Your Adventure?</h2>
-  <p style="font-size: 1.3em; color: #c9a7ff; margin-top: 20px;">Choose a guide section above and start your journey to becoming a Dungeons master! 🎮✨</p>
-</div>
+<section class="landing-section landing-section--cta">
+  <div class="landing-section__inner">
+    <h2>Ready to Begin Your Adventure?</h2>
+    <p>Choose a guide section above and start your journey to becoming a Dungeons master!</p>
+    <a href="agenciak/" class="md-button md-button--primary md-button--large">Start Learning</a>
+  </div>
+</section>
 

@@ -2,6 +2,7 @@ site_name: Minecraft Dungeons Guides
 site_url: https://dungeonss.vercel.app
 theme:
   name: material
+  custom_dir: .overrides
   logo: images/icon.webp
   favicon: images/icon.webp
   palette:
@@ -21,7 +22,10 @@ theme:
 extra_css:
   - stylesheets/extra.css
 
-copyright: "Made with ❤️ by the Arno"
+extra_javascript:
+  - assets/javascripts/extra.js
+
+copyright: Made with ❤️ by Arno
 
 extra:
   generator: true
@@ -32,10 +36,16 @@ nav:
     - agenciak/index.md
     - Melee Guide: agenciak/agenciak-melee-guide.md
     - Rolling Guide: agenciak/agenciak-rolling-guide.md
+    - Enhancements Guide: agenciak/agenciak-enhancements.md
+    - Glossary: agenciak/agenciak-glossary.md
   - BusterCat's Guides:
     - bustercat/index.md
+    - Tank Builds: bustercat/bustercat-tank-builds.md
+    - Move-Attack Guide: bustercat/bustercat-move-attack-guide.md
+    - Armor Swapping Guide: bustercat/bustercat-armor-swapping-guide.md
   - GrimReaper's Guides:
     - grimreaper/index.md
+    - Halloween Stings Build: grimreaper/grimreaper-halloween-stings-build.md
   - Pancake's Guides:
     - pancake/index.md
   - Shin's Guides:

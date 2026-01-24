@@ -1,67 +1,42 @@
 /* Minecraft Dungeons Theme Custom CSS */
 
+/* === GLOBAL STICKY HEADER === */
+.md-header {
+  position: sticky !important;
+  top: 0 !important;
+  z-index: 1000 !important;
+}
+
 :root {
   --md-primary-fg-color: #6a3d9a;
   --md-primary-fg-color--light: #8b5cb8;
   --md-primary-fg-color--dark: #4a1d7a;
   --md-accent-fg-color: #ffb300;
+  --md-accent-fg-color--light: #ffc933;
 }
 
-/* Hero Section for Landing Page */
-.hero-section {
-  background: linear-gradient(135deg, #1a0033 0%, #2d1055 50%, #1a0033 100%);
-  padding: 80px 20px;
+/* Hero section styling for home template */
+.mdx-hero__content p {
+  font-size: 1.2rem;
+  color: rgba(255, 255, 255, 0.9);
+  text-shadow: 0 2px 10px rgba(0, 0, 0, 0.5);
+  margin: 1rem 0 2rem;
+}
+
+.mdx-hero__buttons {
+  margin-top: 2rem;
+}
+
+/* Content area sections */
+.mdx-content h2 {
   text-align: center;
-  border-radius: 10px;
-  margin: -24px -24px 40px -24px;
-  box-shadow: 0 10px 40px rgba(106, 61, 154, 0.3);
-  position: relative;
-  overflow: hidden;
-}
-
-.hero-section::before {
-  content: '';
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  background:
-    radial-gradient(circle at 20% 50%, rgba(139, 92, 184, 0.1) 0%, transparent 50%),
-    radial-gradient(circle at 80% 50%, rgba(255, 179, 0, 0.1) 0%, transparent 50%);
-  pointer-events: none;
-}
-
-/* Logo in Hero Section */
-.hero-section img {
-  transition: transform 0.5s cubic-bezier(0.34, 1.56, 0.64, 1), box-shadow 0.5s ease;
-}
-
-.hero-section img:hover {
-  transform: scale(1.15) rotate(8deg);
-  box-shadow: 0 12px 40px rgba(255, 179, 0, 0.6) !important;
-}
-
-.hero-title {
-  font-size: 4em;
-  font-weight: 900;
+  font-size: 2.5em;
+  margin-bottom: 2rem;
+  margin-top: 0;
   background: linear-gradient(135deg, #b794f6 0%, #f3c969 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
-  margin: 0;
-  text-shadow: 0 4px 20px rgba(183, 148, 246, 0.5);
-  letter-spacing: 2px;
-  position: relative;
-  z-index: 1;
-}
-
-.hero-subtitle {
-  font-size: 1.5em;
-  color: #c9a7ff;
-  margin-top: 20px;
-  position: relative;
-  z-index: 1;
 }
 
 /* Guide Cards */
