@@ -81,6 +81,38 @@ You've learned the basics from other guides, but now you want to know:
       <p class="guide-card-desc">Data-driven tier rankings based on damage testing.</p>
     </div>
   </a>
+
+  <a href="shin-ranged-guide/" class="guide-card-link">
+    <div class="guide-card">
+      <div class="guide-card-icon">🏹</div>
+      <h3 class="guide-card-title">Ranged Guide</h3>
+      <p class="guide-card-desc">Complete ranged weapon mechanics and optimal enchantment choices.</p>
+    </div>
+  </a>
+
+  <a href="shin-pain-cycle-impact-guide/" class="guide-card-link">
+    <div class="guide-card">
+      <div class="guide-card-icon">💢</div>
+      <h3 class="guide-card-title">Pain Cycle Impact Guide</h3>
+      <p class="guide-card-desc">How Pain Cycle affects different weapons and when to use it.</p>
+    </div>
+  </a>
+
+  <a href="shin-void-strike-impact-guide/" class="guide-card-link">
+    <div class="guide-card">
+      <div class="guide-card-icon">🌌</div>
+      <h3 class="guide-card-title">Void Strike Impact Guide</h3>
+      <p class="guide-card-desc">Void Strike mechanics breakdown and damage scaling analysis.</p>
+    </div>
+  </a>
+
+  <a href="shin-thundering-guide/" class="guide-card-link">
+    <div class="guide-card">
+      <div class="guide-card-icon">⚡</div>
+      <h3 class="guide-card-title">Thundering Guide</h3>
+      <p class="guide-card-desc">Thundering enchantment mechanics and strategic applications.</p>
+    </div>
+  </a>
 </div>
 
 ---
