@@ -21,7 +21,9 @@
           <div class="mdx-hero__scrollwrap md-grid">
             <div class="mdx-hero__inner">
               <div class="mdx-hero__teaser md-typeset">
-                <h1>{{ page.meta.get("title", config.site_name) }}</h1>
+                <div class="mdx-hero__logo">
+                  <img src="{{ 'images/logo.webp' | url }}" alt="{{ config.site_name }}" class="mdx-hero__logo-image">
+                </div>
                 {% if page.meta and page.meta.hero_description %}
                   <p>{{ page.meta.hero_description }}</p>
                 {% endif %}
