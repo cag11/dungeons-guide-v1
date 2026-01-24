@@ -64,8 +64,8 @@ html, body { overflow-x: hidden !important; width: 100% !important; margin: 0 !i
 .snow-container {
   position: absolute;
   top: -100%;
-  left: 0;
-  width: 100%;
+  left: -150px;
+  width: calc(100% + 250px);
   height: 200vh;
   background-image: url('../images/snow.webp');
   background-repeat: repeat;
