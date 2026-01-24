@@ -128,14 +128,14 @@
 
 ## 🔥 Featured Guides
 
-### 🎯 [Rolling Builds Guide](agenciak/rolling-builds-guide/)
-Master the art of constant rolling with Burstbowstring and Cooldown Shot. Become invincible!
-
-### ⚔️ [Melee Combat Guide](agenciak/melee-guide/)
+### ⚔️ [Melee Combat Guide](agenciak/agenciak-melee-guide.md)
 Learn weapon types, enchantment synergies, and combat strategies for beginners.
 
-### 💨 [Rolling Mechanics Guide](agenciak/rolling-guide/)
-Understanding i-frames, defensive tactics, and advanced rolling techniques.
+### 💨 [Rolling Mechanics Guide](agenciak/agenciak-rolling-guide.md)
+Master the art of constant rolling with Burstbowstring and Cooldown Shot. Understanding i-frames, defensive tactics, and advanced rolling techniques.
+
+### 🎃 [Halloween Stings Build](grimreaper/grimreaper-halloween-stings-build.md)
+A dark Halloween-themed build by GrimReaper featuring soul-based powers and devastating attacks.
 
 ---
 

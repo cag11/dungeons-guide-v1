@@ -10,7 +10,7 @@
 
 <div class="guide-cards" style="grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));">
 
-<a href="melee-guide/" class="guide-card-link">
+<a href="agenciak-melee-guide/" class="guide-card-link">
   <div class="guide-card">
     <div class="guide-card-icon">⚔️</div>
     <h3 class="guide-card-title">Melee Combat Guide</h3>
@@ -18,7 +18,7 @@
   </div>
 </a>
 
-<a href="rolling-guide/" class="guide-card-link">
+<a href="agenciak-rolling-guide/" class="guide-card-link">
   <div class="guide-card">
     <div class="guide-card-icon">💨</div>
     <h3 class="guide-card-title">Rolling Mechanics Guide</h3>
