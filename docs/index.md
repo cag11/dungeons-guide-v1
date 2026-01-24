@@ -18,7 +18,7 @@
   <a href="bustercat/" class="guide-card-link">
     <div class="guide-card">
       <img src="assets/people/bustercat.webp" alt="BusterCat" class="guide-card-avatar">
-      <h2 class="guide-card-title">BusterCat's Guides</h2>
+      <h2 class="guide-card-title">Buster Cat's Guides</h2>
       <p class="guide-card-desc">Expert strategies and powerful builds to maximize your efficiency and dominate the dungeons.</p>
     </div>
   </a>
@@ -26,7 +26,7 @@
   <a href="grimreaper/" class="guide-card-link">
     <div class="guide-card">
       <img src="assets/people/grimreaper.webp" alt="GrimReaper" class="guide-card-avatar">
-      <h2 class="guide-card-title">GrimReaper's Guides</h2>
+      <h2 class="guide-card-title">Grim Reaper's Guides</h2>
       <p class="guide-card-desc">Dark arts and mysterious strategies to conquer your enemies with devastating power.</p>
     </div>
   </a>
