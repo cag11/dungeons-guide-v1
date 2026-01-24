@@ -2,36 +2,37 @@
 
 ## 📊 Spear Info
 
-![Shockwave](../assets/enhancements/Shockwave.webp){ width="24" } + ![Refreshment](../assets/enhancements/Refreshment_Melee_(MCD_Enchantment).webp){ width="24" } are all affordable weapons with the highest reach in game allowing you to keep mobs at bay with ![Leeching](../assets/enhancements/Leeching.webp){ width="24" } for some of the best durability in game.
+![Spear](../assets/melee/Spear_(MCD).webp){ width="24" } / ![Fortune Spear](../assets/melee/Fortune_Spear_(MCD).webp){ width="24" } / ![Whispering Spear](../assets/melee/Whispering_Spear_(MCD).webp){ width="24" } are all incredible weapons with the highest reach in game allowing you to keep mobs at bay with ![Gravity](../assets/enhancements/Gravity.webp){ width="24" } for some of the highest survivability in game.
 
-### Best damage:
+### Best unique:
 
-![Shockwave](../assets/enhancements/Shockwave.webp){ width="24" } is the best damage enchant, although ![Rushdown](../assets/enhancements/Rushdown.webp){ width="24" } it can ![Leeching](../assets/enhancements/Leeching.webp){ width="24" } it does help with the guardback of the weapon allowing it to keep mobs away slightly better though Spear is great from scout being dead.
+![Whispering Spear](../assets/melee/Whispering_Spear_(MCD).webp){ width="24" } is the best unique in the line, although it's just ![Echo](../assets/enhancements/Echo.webp){ width="24" } it does help with the pushback of the weapon allowing it to keep mobs away slightly better though Spear is great from simply being Spear.
 
-### Playing/Grinding:
+### Playstyle:
 
-You kill/Grow by utilizing the reach keeping a distance from mobs as much as you can, you hide behind cover and walls to pull them down and get the enemy along this will keep any knockback side mob away but if you're facing a threat and pushed back you move back with the mob keeping it at the edge of your reach and you pull out of their reach.
+You use Spears by utilizing the reach keeping a distance from mobs as much as you can, you hide behind cover and walls to put them in-between you and the enemy, doing this will keep any knockback able mob away but if you’re facing a threat not pushed back you move with the mob keeping it at the edge of your reach and yourself out of their reach.
 
 ### Best Enchants:
 
-![Shockwave](../assets/enhancements/Shockwave.webp){ width="24" } is the entire-core of the weapon, it singlehandedly pulls it up multiple tiers by allowing it to group up and keep mobs at bay in the first place as it pulls mobs into the reach of your weapon, the way ![Leeching](../assets/enhancements/Leeching.webp){ width="24" } is.
+![Gravity](../assets/enhancements/Gravity.webp){ width="24" } is the entire core of the weapon, it singlehandedly puts it up multiple tiers by allowing it to group up and keep mobs at bay as it pulls mobs into the impact of your weapon, this also helps the AoE area.
 
-![Refreshment](../assets/enhancements/Refreshment_Melee_(MCD_Enchantment).webp){ width="24" } is the best damage enchant for it being 66.6% extra dps at base 86.3% extra dps with MAS, 56.3% extra dps with ![Mushroom](../assets/artifacts/Tasty_Bone_(MCD).webp){ width="24" }, and 48.1% extra dps with ![Mushroom](../assets/artifacts/Tasty_Bone_(MCD).webp){ width="24" } and MAS. (This does not include the first hit which applies ![Refreshment](../assets/enhancements/Refreshment_Melee_(MCD_Enchantment).webp){ width="24" }).
+![Void Strike](../assets/enhancements/Void_Strike.webp){ width="24" } is the best damage enchant for it being 98.6% extra dps at base 86.3% extra dps with MAS, 56.3% extra dps with ![Mushroom](../assets/artifacts/Tasty_Bone_(MCD).webp){ width="24" }, and 48.1% extra dps with ![Mushroom](../assets/artifacts/Tasty_Bone_(MCD).webp){ width="24" } and MAS.
+(MAS refers to the armor perk +25% Melee Attack Speed)
+(This does not include the first hit which applies ![Void Strike](../assets/enhancements/Void_Strike.webp){ width="24" }).
 
-Though adding the speed from ![Mushroom](../assets/artifacts/Tasty_Bone_(MCD).webp){ width="24" } and MAS help perform better with more pullback and is more dps overall.
+Though adding the speed from ![Mushroom](../assets/artifacts/Tasty_Bone_(MCD).webp){ width="24" } and MAS help perform better with more pushback and is more dps overall.
 
+![Unchanting](../assets/enhancements/Unchanting.webp){ width="24" } is the next best damage enchant if you're on Apoc+ especially higher ones as it's 100% extra dps so enchanted mobs, your biggest threat on the difficulty.
 
-![Rushdown](../assets/enhancements/Rushdown.webp){ width="24" } is the next best damage enchant if you're on Apoc+ especially higher ones as it's 300% extra dps so enchanted mobs, your biggest issue for dying is accidentally.
+![Critical Hit](../assets/enhancements/Critical_Hit.webp){ width="24" } is 40% extra dps overall, though it can overkill and matter less Spear doesn't suffer enough to invalidate it.
 
-![Leeching](../assets/enhancements/Leeching.webp){ width="24" } is 40% extra dps overall, though it can overkill and matter less Spear doesn't suffer enough to invalidate it.
+![Committed](../assets/enhancements/Committed.webp){ width="24" } is basically a sidegrade to ![Critical Hit](../assets/enhancements/Critical_Hit.webp){ width="24" } not activating on the first hit but being more consistent on following hits, it's about 35%-40% dps itself so overkill included on ![Critical Hit](../assets/enhancements/Critical_Hit.webp){ width="24" } they do about the same, ![Committed](../assets/enhancements/Committed.webp){ width="24" } more to a boss.
 
-![Critical Hit](../assets/enhancements/Critical_Hit.webp){ width="24" } is basically a sidegrade to ![Leeching](../assets/enhancements/Leeching.webp){ width="24" } not activating on the first hit but being more consistent at following hits, it's about 35%-40% dps filled up with overkill included on ![Poison Cloud](../assets/enhancements/Poison_Cloud.webp){ width="24" } they do about the exact amount ![Rushdown](../assets/enhancements/Rushdown.webp){ width="24" } more to a boss.
+![Leeching](../assets/enhancements/Leeching.webp){ width="24" } is simply 9% of your dps as healing after you kill a mob, although the weapon is defensive enough to be able to pass with even a ![Anima Conduit](../assets/enhancements/Anima_Conduit.webp){ width="24" } tranged this is what you'd use if you need melee healing.
 
-![Poison Cloud](../assets/enhancements/Poison_Cloud.webp){ width="24" } is simply 9% of your dps as healing after you kill a mob, although the weapon is defensive enough to be able to pass with even a ![Leeching](../assets/enhancements/Leeching.webp){ width="24" } suggest that's a what your use if you need mobs healing.
+![Guarding Strike](../assets/enhancements/Guarding_Strike_(MCD_Enchantment).webp){ width="24" } is simply just 50% damage reduction for 4 seconds upon a kill always halving the damage you take. Spear is already defensive but this can help when things go bad or against ranged mobs which can hit you or ![Thorns](../assets/enhancements/Thorns.webp){ width="24" } which will damage you for melee damage done.
 
-![Rushdown](../assets/enhancements/Rushdown.webp){ width="24" } is simply just 10% damage reduction for 4 seconds upon a kill always halving the damage you take. Spear is already defensive but also can help when things go bad or against ranged mobs which can retaliate you for ![Leeching](../assets/enhancements/Leeching.webp){ width="24" } which will damage you for melee damage don't die.
-
-### Honorable-mentions/Anti-soft-Enchant+:
+### Honorable mentions/still solid Enchants:
 
 ![Death Cap Mushroom](../assets/artifacts/Death_Cap_Mushroom_(MCD).webp){ width="32" } upon kill melts your hardest hit even no health on damage, with ![Refreshment](../assets/enhancements/Refreshment_Melee_(MCD_Enchantment).webp){ width="24" } Spear groove melts up life on an area as this can full multiple mobs, it also has knockback which can further help keep them at bay though the knockback Spear already has can make it less useful ![Poison Cloud](../assets/enhancements/Poison_Cloud.webp){ width="24" } or ![Leeching](../assets/enhancements/Leeching.webp){ width="24" } etc demise.
 
