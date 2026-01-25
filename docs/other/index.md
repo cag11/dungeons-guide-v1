@@ -1,4 +1,4 @@
-﻿﻿# :link: Other Sources
+﻿# :link: Other Sources
 
 Additional resources, tools, and guides from across the Minecraft Dungeons community.
 
