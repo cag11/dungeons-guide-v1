@@ -16,7 +16,7 @@ hero_buttons:
     <h2>Welcome to DungeonsHub</h2>
     <p class="landing-section__lead">Your central hub for Minecraft Dungeons mastery. From beginner basics to advanced strategies, discover comprehensive guides created by the community's best players.</p>
     <p class="landing-section__subtitle" style="font-size: 1.3em; margin-top: 1.5rem; color: #e0e0e0;">
-      Featuring <span style="color: #ffb300; font-weight: 700; font-size: 1.2em;">129 expert guides</span> and <span style="color: #ff6b6b; font-weight: 700; font-size: 1.2em;">523 themed builds</span> crafted by <span style="color: #b794f6; font-weight: 700; font-size: 1.2em;">6 amazing contributors</span>
+      Featuring <span style="color: #ffb300; font-weight: 700; font-size: 1.2em;">134 expert guides</span> and <span style="color: #ff6b6b; font-weight: 700; font-size: 1.2em;">523 themed builds</span> crafted by <span style="color: #b794f6; font-weight: 700; font-size: 1.2em;">6 amazing contributors</span>
     </p>
   </div>
 </section>
