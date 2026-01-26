@@ -50,6 +50,14 @@
   </div>
 </a>
 
+<a href="agenciak-final-shout-guide/" class="guide-card-link">
+  <div class="guide-card">
+    <div class="guide-card-icon">⚡</div>
+    <h3 class="guide-card-title">Why Final Shout Isn't Worth It</h3>
+    <p class="guide-card-desc">Learn why Final Shout is not a reliable alternative to Cooldown and why it serves no real purpose!</p>
+  </div>
+</a>
+
 <a href="agenciak-glossary/" class="guide-card-link">
   <div class="guide-card">
     <div class="guide-card-icon">📖</div>
