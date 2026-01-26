@@ -42,6 +42,14 @@
   </div>
 </a>
 
+<a href="agenciak-shockswirl-guide/" class="guide-card-link">
+  <div class="guide-card">
+    <div class="guide-card-icon">🌀</div>
+    <h3 class="guide-card-title">Why Shockswirl Isn't Good AoE</h3>
+    <p class="guide-card-desc">Discover why Shockwave + Swirling combo is overrated and why it doesn't work on most weapons!</p>
+  </div>
+</a>
+
 <a href="agenciak-glossary/" class="guide-card-link">
   <div class="guide-card">
     <div class="guide-card-icon">📖</div>
