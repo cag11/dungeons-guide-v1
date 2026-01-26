@@ -12,7 +12,7 @@ Remember that you need a ton of arrows for it to work, that's why you need ![Loo
 
 **Best options for a rolling bow**
 
-### <img src="../assets/ranged/Winter's_Touch_(MCD).webp" width="32" alt="Winter's Touch" style="vertical-align: middle;"> Winter's Touch
+### ![Winter's Touch](../assets/ranged/Winters_Touch_(MCD).webp){ width="32" } Winter's Touch
 *If your build uses any quiver artifacts, this is what you're looking for*
 
 - Shoots out 3 arrows when charged (In a rolling build it means 9 arrows for every roll, because 3 arrows per 1 shot and ![Burstbowstring](../assets/enhancements/Burst_Bowstring.webp){ width="32" } Burstbowstring provides 3 shots)
