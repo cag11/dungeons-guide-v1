@@ -179,9 +179,9 @@ hero_buttons:
       </div>
 
       <div class="featured-guide">
-        <div class="featured-guide__icon">🎃</div>
-        <h3><a href="grimreaper/grimreaper-halloween-stings-build/">Halloween Stings Build</a></h3>
-        <p>A dark Halloween-themed build featuring soul-based powers and devastating attacks.</p>
+        <div class="featured-guide__icon">🚫</div>
+        <h3><a href="agenciak/agenciak-protection-guide/">Why Protection Isn't Worth It</a></h3>
+        <p>Discover why the Protection enchantment is a trap and learn about much better defense alternatives.</p>
       </div>
     </div>
   </div>

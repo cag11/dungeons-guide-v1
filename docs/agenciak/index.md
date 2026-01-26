@@ -34,6 +34,14 @@
   </div>
 </a>
 
+<a href="agenciak-protection-guide/" class="guide-card-link">
+  <div class="guide-card">
+    <div class="guide-card-icon">🚫</div>
+    <h3 class="guide-card-title">Why Protection Isn't Worth It</h3>
+    <p class="guide-card-desc">Learn why Protection enchantment is overrated and discover much better alternatives for your armor!</p>
+  </div>
+</a>
+
 <a href="agenciak-glossary/" class="guide-card-link">
   <div class="guide-card">
     <div class="guide-card-icon">📖</div>
