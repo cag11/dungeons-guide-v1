@@ -4,7 +4,7 @@
 
 **Best weapon options for melee-focused builds, there is a lot of strong weapons but these are the most commonly used, i also added some good enchant combos**
 
-### ![Cursed Axe](../assets/melee/Cursed_Axe_(MCD).webp){ width="32" } Double Axe, ![Double Axe](../assets/melee/Double_Axe_(MCD).webp){ width="32" } Double Axe, ![Whirlwind](../assets/melee/Whirlwind_(MCD).webp){ width="32" } Whirlwind
+### ![Cursed Axe](../assets/melee/Cursed_Axe_(MCD).webp){ width="32" } Cursed Axe, ![Double Axe](../assets/melee/Double_Axe_(MCD).webp){ width="32" } Double Axe, ![Whirlwind](../assets/melee/Whirlwind_(MCD).webp){ width="32" } Whirlwind
 *Solid DPS paired with big area, often called the best melee weapon*
 
 ![Voidstrike](../assets/enhancements/Void_Strike.webp){ width="32" } + ![Unchanting](../assets/enhancements/Unchanting.webp){ width="32" } + ![Guarding Strike](../assets/enhancements/Guarding_Strike_(MCD_Enchantment).webp){ width="32" } + ![Weakening](../assets/enhancements/Weakening.webp){ width="32" } (Only with lifesteal)
