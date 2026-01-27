@@ -19,7 +19,7 @@ Additional resources, tools, and guides from across the Minecraft Dungeons commu
 Active community hubs for builds, discussion, and help:
 
 
-- **The Dungeon Fishes** – Newest & Most Active Server 
+- **The Dungeon Fishes** – Newest & Most Active Server   
   [https://discord.gg/ZsTJetvmJx](https://discord.gg/ZsTJetvmJx)  
   *Members: 500+ active*
 
