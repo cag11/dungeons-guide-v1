@@ -40,7 +40,7 @@
 ![Voidstrike](../assets/enhancements/Void_Strike.webp){ width="32" } + ![Unchanting](../assets/enhancements/Unchanting.webp){ width="32" } + ![Guarding Strike](../assets/enhancements/Guarding_Strike_(MCD_Enchantment).webp){ width="32" } + ![Leeching](../assets/enhancements/Leeching.webp){ width="32" }
 
 ### ![Nameless Blade](../assets/melee/Nameless_Blade_(MCD).webp){ width="32" } Nameless Blade
-*10th highest DPS, built in* ![Chains](../assets/enhancements/Chains.webp){ width="32" } *helps this weapon a lot*
+*10th highest DPS, built in* ![Weakening](../assets/enhancements/Weakening.webp){ width="32" } *helps this weapon a lot*
 
 ![Voidstrike](../assets/enhancements/Void_Strike.webp){ width="32" } + ![Unchanting](../assets/enhancements/Unchanting.webp){ width="32" } + ![Guarding Strike](../assets/enhancements/Guarding_Strike_(MCD_Enchantment).webp){ width="32" } + ![Critical Hit](../assets/enhancements/Critical_Hit.webp){ width="32" } (Only with lifesteal)
 

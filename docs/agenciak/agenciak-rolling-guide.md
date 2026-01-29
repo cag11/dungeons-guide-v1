@@ -44,7 +44,7 @@ Remember that you need a ton of arrows for it to work, that's why you need ![Loo
 
 ![Wild Rage](../assets/enhancements/Wild_Rage.webp){ width="32" } **Wild rage** - **good**, enrages mobs
 
-![Voidstrike Shot](../assets/enhancements/Void_Shot.webp){ width="32" } **Voidstrike shot** - **good**, applies a damage multiplier, weaker than melee ![Voidstrike](../assets/enhancements/Void_Strike.webp){ width="32" } Voidstrike *(added)*
+![Voidstrike Shot](../assets/enhancements/Void_Shot.webp){ width="32" } **Voidstrike shot** - **good**, applies a damage multiplier, weaker than melee ![Voidstrike](../assets/enhancements/Void_Strike.webp){ width="32" } Voidstrike 
 
 ---
 
