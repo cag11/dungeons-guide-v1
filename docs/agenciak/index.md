@@ -66,6 +66,14 @@
   </div>
 </a>
 
+<a href="agenciak-melee-fast/" class="guide-card-link">
+  <div class="guide-card">
+    <div class="guide-card-icon">⚡</div>
+    <h3 class="guide-card-title">Melee Weapons - Fast</h3>
+    <p class="guide-card-desc">Master fast melee weapons like Rapiers, Fighter's Bindings, and Mechanized Sawblade with optimal enchantment combos!</p>
+  </div>
+</a>
+
 <a href="agenciak-glossary/" class="guide-card-link">
   <div class="guide-card">
     <div class="guide-card-icon">📖</div>
