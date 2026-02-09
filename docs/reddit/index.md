@@ -48,6 +48,30 @@
       <p class="guide-card-desc">Guide to identifying and farming the best ranged weapons and enchantments.</p>
     </div>
   </a>
+
+  <a href="reddit-seaofpixels-builds/" class="guide-card-link">
+    <div class="guide-card">
+      <div class="guide-card-icon">🎮</div>
+      <h3 class="guide-card-title">SeaOfPixels' Daily Trial Builds</h3>
+      <p class="guide-card-desc">Top Tier 3 Daily Trial builds with video guides for collecting all 6 Raid Banners.</p>
+    </div>
+  </a>
+
+  <a href="reddit-seaofpixels-map-properties/" class="guide-card-link">
+    <div class="guide-card">
+      <div class="guide-card-icon">🗺️</div>
+      <h3 class="guide-card-title">Map Properties for Daily Trials</h3>
+      <p class="guide-card-desc">Which maps can have Trials and how likely they are to spawn all 6 Raid Captains.</p>
+    </div>
+  </a>
+
+  <a href="reddit-every-item-tier-list/" class="guide-card-link">
+    <div class="guide-card">
+      <div class="guide-card-icon">📊</div>
+      <h3 class="guide-card-title">Every Item Tier List</h3>
+      <p class="guide-card-desc">Comprehensive tier list ranking every item in Minecraft Dungeons.</p>
+    </div>
+  </a>
 </div>
 
 ---
