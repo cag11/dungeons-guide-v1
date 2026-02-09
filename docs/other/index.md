@@ -7,6 +7,8 @@ Additional resources, tools, and guides from across the Minecraft Dungeons commu
 ## :wrench: Useful Tools
 
 ### Community Resources
+- **Dungeon Souls** – Minecraft Dungeons themed game with card and gear collection and battling mechanics.
+  [https://soulss.vercel.app/](https://soulss.vercel.app/)
 - **Dungeon Collector** – Minecraft Dungeons information resource with items, mechanics, and guides  
   [https://www.dungeoncollector.co.uk/](https://www.dungeoncollector.co.uk/)
 - **Reddit Wiki / FAQ** – Community-maintained guides and common questions  
